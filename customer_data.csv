@@ -1,0 +1,501 @@
+customer_id,name,age,gender,city,state,income,education,occupation,subscription_plan,membership_years,referral_source,purchases,avg_order_value,total_spent,last_purchase_days,preferred_category,payment_method,device_used,loyalty_points,reviews_given,wishlist_items,complaints,returns,support_tickets,satisfaction_score,churn
+1,Falguni Saxena,56,Male,Mysuru,Karnataka,46062,Diploma,Business Owner,Premium,4,Social Media,28,1167.09,30504.0,4,Groceries,Wallet,App,1273,24,10,0,1,1,3.2,0
+2,Uday Fernandes,34,Male,Patna,Bihar,80217,Diploma,Student,Free,0,Friend Referral,48,270.7,12187.39,322,Automotive,UPI,Desktop,1866,5,27,1,1,1,3.6,0
+3,Hemant Kulkarni,28,Female,Nashik,Maharashtra,47460,Master's,Retired,Premium,10,Social Media,9,1554.1,12606.97,126,Groceries,Net Banking,App,4562,5,26,6,0,1,4.6,0
+4,Qasim Trivedi,35,Male,Kanpur,Uttar Pradesh,139686,Diploma,Retired,Basic,3,TV Ad,40,594.56,23776.92,330,Toys,Debit Card,Tablet,4598,16,23,4,6,9,3.8,0
+5,Eshan Sharma,50,Female,Hyderabad,Telangana,119061,High School,Student,Enterprise,9,TV Ad,19,1598.42,33031.11,217,Automotive,Credit Card,App,3834,8,17,6,0,5,4.4,0
+6,Neha Rawat,35,Other,Meerut,Uttar Pradesh,34621,Master's,Business Owner,Premium,10,TV Ad,20,1178.01,26767.8,135,Furniture,Debit Card,Mobile,4158,6,4,2,2,4,4.9,0
+7,Shruti Shah,56,Female,Raipur,Chhattisgarh,22552,High School,Self-Employed,Free,12,Social Media,39,659.47,23719.95,291,Clothing,Credit Card,App,4363,8,21,3,8,2,3.5,0
+8,Dolly Bose,31,Other,Navi Mumbai,Maharashtra,115673,Bachelor's,Retired,Free,3,Google,39,1045.56,42877.1,192,Toys,Cash on Delivery,App,1840,21,0,4,8,3,4.2,0
+9,Aarav Joshi,63,Other,Ahmedabad,Gujarat,50007,High School,Student,Enterprise,3,Email Campaign,42,251.47,9731.6,343,Toys,Debit Card,Desktop,3874,12,3,0,10,6,3.7,0
+10,Chetan Shetty,64,Male,Noida,Uttar Pradesh,105649,High School,Student,Enterprise,2,Social Media,51,1842.28,102429.05,56,Home & Kitchen,Debit Card,Desktop,3456,17,14,1,1,1,4.6,0
+11,Vivek Nair,21,Other,Dhanbad,Jharkhand,129579,High School,Student,Enterprise,0,Friend Referral,30,482.47,14411.75,110,Books,Credit Card,Desktop,3198,29,25,6,7,4,3.8,0
+12,Utpal Patil,60,Other,Raipur,Chhattisgarh,40289,Bachelor's,Self-Employed,Free,0,Email Campaign,27,2424.28,67010.4,278,Electronics,Wallet,Tablet,4785,16,29,6,8,2,1.1,1
+13,Queenie Singh,29,Male,Aligarh,Uttar Pradesh,,High School,Retired,Free,6,TV Ad,30,1057.14,35915.66,292,Home & Kitchen,Cash on Delivery,Mobile,4781,16,10,2,3,5,4.4,0
+14,Girish Tiwari,43,Male,Bhubaneswar,Odisha,104607,Master's,Business Owner,Free,8,TV Ad,40,2328.22,105302.62,5,Toys,Cash on Delivery,Mobile,1746,16,4,2,1,1,3.7,0
+15,Nikhil Parikh,52,Other,Visakhapatnam,Andhra Pradesh,100173,Diploma,Student,Basic,4,TV Ad,70,804.5,59075.37,69,Sports,Credit Card,Mobile,2308,26,22,2,3,5,4.3,0
+16,Jyoti Saxena,49,Female,Ahmedabad,Gujarat,,High School,Retired,Basic,11,TV Ad,54,2087.02,97284.78,171,Groceries,Wallet,Tablet,3619,45,13,4,0,0,3.2,0
+17,Omkar Rao,52,Male,Rajkot,Gujarat,,Diploma,Freelancer,Basic,10,Friend Referral,18,1120.08,17390.22,187,Electronics,UPI,Desktop,842,17,28,6,6,9,4.5,0
+18,Girish Kumar,29,Female,Delhi,Delhi,43509,Master's,Business Owner,Basic,3,Friend Referral,31,725.67,24435.18,56,Books,Credit Card,App,3770,19,26,6,3,3,3.0,0
+19,Aditya Trivedi,39,Female,Pune,Maharashtra,146732,Master's,Self-Employed,Premium,2,Friend Referral,65,1047.22,77894.76,275,Beauty,Credit Card,Mobile,4756,4,3,4,6,5,4.5,0
+20,Qasim Bose,56,Other,Kolkata,West Bengal,70488,Diploma,Salaried,Premium,6,None,32,187.42,5882.39,267,Furniture,Wallet,Desktop,573,21,19,2,10,1,4.4,0
+21,Om Saxena,37,Other,Guwahati,Assam,62753,PhD,Retired,Premium,6,Google,37,1421.68,47739.2,341,Books,Wallet,Desktop,4488,19,9,1,6,5,3.9,0
+22,Harsh Bhatia,31,Other,Varanasi,Uttar Pradesh,124036,Bachelor's,Retired,Premium,3,Social Media,10,766.76,8044.51,318,Beauty,Credit Card,Desktop,1631,0,1,1,7,1,3.9,0
+23,Gita Bhosale,30,Other,Faridabad,Haryana,70328,PhD,Business Owner,Enterprise,0,Social Media,31,437.12,14313.45,55,Books,Debit Card,Desktop,4566,7,14,1,7,8,5.0,0
+24,Cyrus Choudhary,46,Other,Patna,Bihar,136918,Diploma,Business Owner,Premium,12,Email Campaign,70,1159.11,72841.16,244,Toys,UPI,Desktop,4270,30,8,3,1,2,3.5,0
+25,Sachin Choudhary,52,Male,Jaipur,Rajasthan,39769,Bachelor's,Business Owner,Enterprise,0,Email Campaign,19,1789.53,29556.06,209,Beauty,Cash on Delivery,App,1694,12,28,6,9,0,2.7,1
+26,Zubin Bhosale,42,Female,Mumbai,Maharashtra,143567,Master's,Self-Employed,Enterprise,3,Email Campaign,49,2145.34,119421.26,215,Furniture,Wallet,Desktop,2235,31,0,3,5,6,4.4,0
+27,Kiran Sharma,57,Other,Delhi,Delhi,138872,PhD,Freelancer,Free,4,Friend Referral,72,1684.46,106143.32,220,Groceries,Net Banking,Desktop,3105,27,14,2,5,6,3.6,0
+28,Disha Tiwari,23,Female,Delhi,Delhi,118176,Diploma,Student,Basic,0,Social Media,44,622.62,23849.93,334,Electronics,Credit Card,Desktop,1248,8,15,5,1,4,2.9,1
+29,Kiran Khanna,34,Female,Bhopal,Madhya Pradesh,99415,Diploma,Retired,Premium,9,Email Campaign,14,1962.26,24700.57,160,Clothing,Cash on Delivery,Mobile,3074,11,6,0,9,3,3.2,0
+30,Alok Jain,61,Other,Kolkata,West Bengal,124363,Diploma,Student,Free,6,Google,44,1369.24,63165.89,36,Furniture,Wallet,Tablet,4015,27,30,2,10,7,4.4,0
+31,Geeta Reddy,64,Other,Jalandhar,Punjab,55400,Diploma,Freelancer,Free,4,Social Media,61,1204.99,80687.27,304,Sports,UPI,Desktop,3692,48,14,4,9,10,3.8,0
+32,Sneha Roy,38,Male,Raipur,Chhattisgarh,47802,Master's,Self-Employed,Free,3,Email Campaign,43,756.77,33479.81,142,Furniture,Credit Card,Desktop,3329,35,24,1,7,7,3.9,0
+33,Rahul Singh,36,Male,Amritsar,Punjab,110673,Bachelor's,Self-Employed,Premium,11,Friend Referral,74,973.03,73159.3,177,Books,Wallet,Tablet,3717,39,8,1,1,2,3.4,0
+34,Pooja Luthra,52,Other,Nagpur,Maharashtra,45105,Bachelor's,Retired,Basic,4,Friend Referral,61,749.13,46925.08,269,Automotive,UPI,Mobile,1863,11,9,0,8,2,3.5,0
+35,Vikram Patil,36,Other,Jaipur,Rajasthan,103606,PhD,Student,Premium,7,Google,1,1469.24,1455.75,226,Beauty,Debit Card,Mobile,934,1,15,0,0,0,1.3,1
+36,Yogesh Jain,23,Male,Kolkata,West Bengal,93147,PhD,Freelancer,Premium,9,Friend Referral,76,1993.59,139044.26,268,Books,Net Banking,App,3512,72,19,0,9,1,4.9,0
+37,Chirag Dubey,31,Female,Bhubaneswar,Odisha,30641,Bachelor's,Salaried,Premium,0,Friend Referral,22,1415.82,27938.54,210,Toys,Wallet,App,1896,22,9,5,7,1,2.4,1
+38,Jyoti Dubey,55,Other,Surat,Gujarat,75723,High School,Freelancer,Premium,9,Friend Referral,28,1647.28,51775.09,73,Clothing,Credit Card,Desktop,4662,14,3,3,4,6,4.9,0
+39,Prakash Rawat,49,Female,Hyderabad,Telangana,98385,High School,Business Owner,Premium,9,Social Media,41,1540.99,54193.75,118,Automotive,Cash on Delivery,Mobile,329,30,16,5,7,4,3.4,0
+40,Abhi Bose,58,Female,Hyderabad,Telangana,81605,Master's,Business Owner,Premium,10,TV Ad,42,856.96,31722.91,83,Beauty,Net Banking,App,3280,2,14,0,5,2,3.6,0
+41,Alok Trivedi,50,Male,Bhubaneswar,Odisha,133949,Diploma,Business Owner,Free,3,TV Ad,52,211.17,11041.58,319,Toys,Wallet,App,2187,8,29,2,7,7,3.2,0
+42,Gita Fernandes,33,Other,Bhopal,Madhya Pradesh,60730,Diploma,Student,Enterprise,11,TV Ad,70,1067.34,68543.2,59,Toys,Credit Card,Desktop,2390,34,13,6,7,7,3.5,0
+43,Vivek Rao,42,Male,Aligarh,Uttar Pradesh,86616,Bachelor's,Student,Premium,11,TV Ad,35,1949.87,75501.56,175,Furniture,UPI,Mobile,2445,31,27,1,7,8,4.0,0
+44,Sachin Patil,52,Female,Madurai,Tamil Nadu,142270,Master's,Salaried,Enterprise,6,Email Campaign,30,1463.75,40402.52,211,Electronics,UPI,App,1246,30,1,1,8,9,3.7,0
+45,Suresh Parikh,24,Other,Madurai,Tamil Nadu,,High School,Retired,Premium,9,None,18,1072.15,20194.82,80,Clothing,Net Banking,Tablet,3256,2,27,2,10,8,3.8,0
+46,Qasim Dubey,63,Female,Dhanbad,Jharkhand,24705,Diploma,Student,Free,7,None,30,1607.41,54311.75,117,Clothing,Net Banking,Mobile,1362,9,28,0,0,0,4.6,0
+47,Nandini Pandey,41,Female,Lucknow,Uttar Pradesh,52007,Diploma,Business Owner,Basic,7,Social Media,72,1729.96,112601.76,90,Clothing,Cash on Delivery,App,4777,29,14,5,4,7,3.5,0
+48,Priya Shetty,36,Other,Dhanbad,Jharkhand,,Bachelor's,Student,Enterprise,4,Email Campaign,56,2367.47,151973.93,154,Books,Wallet,Tablet,1631,54,15,0,3,3,4.1,0
+49,Zeenat Bhatt,62,Female,Delhi,Delhi,148181,PhD,Self-Employed,Premium,12,TV Ad,1,1449.55,1530.35,26,Automotive,Wallet,App,1885,1,7,5,0,4,3.5,0
+50,Yamini Chopra,60,Other,Jaipur,Rajasthan,102345,High School,Retired,Free,4,None,5,827.62,4064.64,297,Beauty,Wallet,Desktop,2676,3,5,1,1,2,4.8,0
+51,Wasim Modi,50,Female,Bhopal,Madhya Pradesh,53681,PhD,Self-Employed,Premium,1,Google,43,2026.24,86300.55,39,Groceries,Debit Card,App,3232,16,17,0,7,5,4.3,0
+52,Mukesh Tiwari,55,Female,Gwalior,Madhya Pradesh,143245,Master's,Student,Free,10,None,29,1220.97,36678.01,288,Beauty,Cash on Delivery,Desktop,3803,9,20,3,1,1,3.1,0
+53,Karan Jain,49,Male,Chennai,Tamil Nadu,,Bachelor's,Freelancer,Enterprise,10,Email Campaign,17,1020.52,16677.5,357,Furniture,Net Banking,Desktop,811,13,30,2,0,2,3.7,0
+54,Harsh Parikh,33,Female,Chennai,Tamil Nadu,148572,Master's,Freelancer,Free,0,Social Media,45,226.53,9508.46,63,Toys,Credit Card,Desktop,2732,8,25,4,3,1,4.7,0
+55,Vivek Gupta,55,Male,Indore,Madhya Pradesh,63064,Bachelor's,Freelancer,Free,10,Social Media,0,751.01,0.0,67,Furniture,UPI,Desktop,211,0,0,2,0,2,3.6,0
+56,Gaurav Tiwari,21,Male,Thane,Maharashtra,75176,Diploma,Student,Basic,9,None,8,1232.52,10682.55,263,Automotive,Credit Card,App,355,8,9,3,0,0,5.0,0
+57,Bela Bose,61,Male,Raipur,Chhattisgarh,113375,PhD,Student,Enterprise,9,Friend Referral,10,859.51,7688.32,65,Sports,Cash on Delivery,Tablet,4346,7,16,4,6,1,4.6,0
+58,Arjun Malhotra,59,Other,Patna,Bihar,,Bachelor's,Business Owner,Premium,6,None,57,2229.18,123777.92,233,Books,Net Banking,Mobile,2560,16,11,1,10,7,3.1,0
+59,Amit Singh,45,Male,Thane,Maharashtra,116835,Master's,Salaried,Enterprise,5,None,71,225.15,18175.48,288,Beauty,Wallet,Mobile,3464,6,30,2,9,4,3.7,0
+60,Zeenat Saxena,31,Male,Bhubaneswar,Odisha,83201,Bachelor's,Student,Free,9,Google,44,2125.8,89818.89,143,Automotive,Debit Card,App,2190,11,8,5,4,5,3.7,0
+61,Swati Rao,54,Other,Amritsar,Punjab,29120,Bachelor's,Retired,Basic,5,None,3,302.05,914.44,193,Books,Net Banking,Tablet,2552,2,24,4,0,0,1.3,1
+62,Yamini Shaikh,21,Other,Hyderabad,Telangana,55665,PhD,Retired,Premium,6,Friend Referral,54,1255.3,66607.62,140,Home & Kitchen,Cash on Delivery,Mobile,908,43,21,4,7,8,4.3,0
+63,Anjali Desai,43,Other,Ahmedabad,Gujarat,21007,Bachelor's,Self-Employed,Enterprise,11,Social Media,27,1936.99,56443.31,149,Beauty,Credit Card,Mobile,3527,4,12,4,3,5,3.1,0
+64,Vimal Verma,45,Male,Madurai,Tamil Nadu,140738,High School,Self-Employed,Enterprise,0,Social Media,73,1118.87,79335.56,328,Books,UPI,Mobile,2660,58,26,5,5,1,1.9,1
+65,Nisha Mishra,45,Other,Amritsar,Punjab,88676,High School,Business Owner,Basic,12,Friend Referral,39,1884.85,67369.05,87,Clothing,Cash on Delivery,Mobile,2862,9,7,0,2,1,3.4,0
+66,Dolly Rao,59,Male,Nagpur,Maharashtra,144687,PhD,Business Owner,Basic,7,Email Campaign,72,1918.9,136043.01,290,Automotive,UPI,Tablet,559,56,20,2,4,4,3.1,0
+67,Prakash Joshi,37,Female,Jodhpur,Rajasthan,24929,High School,Self-Employed,Enterprise,9,None,36,265.69,10610.04,47,Automotive,Cash on Delivery,App,4540,2,14,6,9,6,3.6,0
+68,Lalit Saxena,27,Male,Jodhpur,Rajasthan,33566,Master's,Retired,Premium,5,Email Campaign,10,1301.01,11732.09,127,Toys,Net Banking,Desktop,2317,6,24,2,10,9,3.1,0
+69,Gita Malhotra,39,Male,Meerut,Uttar Pradesh,32387,Diploma,Retired,Free,9,Friend Referral,49,767.64,40139.04,337,Automotive,Debit Card,Tablet,1158,19,30,5,10,12,1.3,1
+70,Radha Singh,37,Other,Aurangabad,Maharashtra,104343,Master's,Salaried,Premium,2,Friend Referral,67,306.16,21561.68,261,Beauty,Credit Card,Tablet,1754,62,6,1,2,1,3.2,0
+71,Suresh Saxena,52,Other,Vijayawada,Andhra Pradesh,24947,Master's,Freelancer,Free,6,None,16,1525.34,21874.01,93,Automotive,Debit Card,App,2984,7,14,4,4,7,3.5,0
+72,Girish Jain,48,Male,Rajkot,Gujarat,,Diploma,Business Owner,Basic,12,Social Media,59,1942.04,124140.63,258,Furniture,Net Banking,Desktop,4953,55,8,0,10,7,4.7,0
+73,Vivek Nair,63,Other,Kolkata,West Bengal,57363,High School,Salaried,Premium,0,Google,34,1167.35,39848.89,224,Clothing,Debit Card,App,3398,25,16,2,3,3,5.0,0
+74,Xena Desai,19,Female,Chennai,Tamil Nadu,129992,Master's,Salaried,Enterprise,9,Google,17,172.69,3303.34,242,Groceries,Wallet,App,43,0,8,1,2,3,3.2,0
+75,Manish Mishra,37,Male,Ahmedabad,Gujarat,51252,PhD,Retired,Basic,11,Friend Referral,79,1186.21,82770.57,256,Automotive,Cash on Delivery,Mobile,1176,54,0,4,5,3,4.1,0
+76,Swati Kaur,60,Male,Vijayawada,Andhra Pradesh,147749,Master's,Student,Enterprise,0,Friend Referral,67,1396.68,101618.09,260,Furniture,Credit Card,App,3169,32,23,0,5,0,3.7,0
+77,Utpal Kaur,58,Male,Gurgaon,Haryana,96271,Master's,Salaried,Enterprise,10,Social Media,5,932.56,4436.95,330,Groceries,Wallet,App,1493,0,22,6,3,0,3.6,0
+78,Anjali Pillai,20,Female,Visakhapatnam,Andhra Pradesh,87552,PhD,Freelancer,Premium,4,Friend Referral,60,693.02,44740.84,98,Sports,UPI,Mobile,1019,27,28,3,7,6,3.7,0
+79,Swati Roy,62,Female,Rajkot,Gujarat,141151,Diploma,Self-Employed,Premium,1,Friend Referral,10,1839.54,16071.66,309,Groceries,Cash on Delivery,Tablet,655,10,9,2,7,9,4.4,0
+80,Lakshmi Khanna,46,Female,Jodhpur,Rajasthan,25551,Master's,Freelancer,Premium,8,Google,55,744.42,46839.24,30,Clothing,Wallet,App,1310,9,27,4,10,12,3.9,0
+81,Sanjay Joshi,33,Other,Rajkot,Gujarat,67467,PhD,Freelancer,Basic,8,Email Campaign,4,1544.33,6509.16,190,Beauty,Net Banking,Mobile,3006,2,20,2,1,0,3.1,0
+82,Swati Roy,51,Female,Mysuru,Karnataka,35435,Master's,Self-Employed,Basic,1,Social Media,57,599.26,35304.26,356,Toys,Debit Card,Mobile,3703,57,22,3,1,2,4.3,0
+83,Radha Joshi,53,Other,Coimbatore,Tamil Nadu,136828,Master's,Salaried,Enterprise,0,TV Ad,22,2000.75,44132.12,63,Home & Kitchen,Debit Card,Desktop,2956,18,11,3,8,2,4.2,0
+84,Kavya Joshi,37,Female,Chandigarh,Chandigarh,114223,PhD,Freelancer,Enterprise,7,Friend Referral,52,1941.38,110744.26,38,Groceries,UPI,Mobile,4238,8,28,6,8,10,4.2,0
+85,Alok Sharma,45,Other,Ahmedabad,Gujarat,128972,High School,Freelancer,Free,4,None,19,815.98,13931.4,364,Home & Kitchen,UPI,Tablet,1608,17,8,1,10,4,4.2,0
+86,Kavya Saxena,59,Male,Bareilly,Uttar Pradesh,143418,Diploma,Salaried,Free,1,None,21,1674.13,37483.75,310,Beauty,Cash on Delivery,Mobile,372,18,8,5,3,6,4.2,0
+87,Sneha Roy,58,Other,Coimbatore,Tamil Nadu,104136,Master's,Business Owner,Basic,7,Email Campaign,31,2027.35,66335.73,153,Toys,Credit Card,Mobile,3404,29,6,2,9,2,3.6,0
+88,Shyam Choudhary,64,Female,Amritsar,Punjab,37139,Master's,Freelancer,Basic,1,Friend Referral,71,336.97,22071.2,63,Sports,Net Banking,Desktop,414,49,27,4,6,3,4.9,0
+89,Nikhil Choudhary,54,Other,Kochi,Kerala,44881,Bachelor's,Business Owner,Enterprise,3,TV Ad,65,1209.69,87571.85,255,Electronics,Credit Card,App,1762,45,1,0,4,3,4.2,0
+90,Jagdish Bhatia,48,Female,Dhanbad,Jharkhand,21071,High School,Business Owner,Free,9,Social Media,17,2215.54,40234.85,207,Beauty,Credit Card,App,4602,11,17,2,1,3,4.0,0
+91,Zubin Patil,35,Other,Noida,Uttar Pradesh,100090,High School,Salaried,Basic,9,Email Campaign,12,1033.25,13495.93,174,Furniture,UPI,Desktop,4170,8,1,0,0,0,4.4,0
+92,Lalit Modi,47,Male,Aligarh,Uttar Pradesh,137064,Diploma,Salaried,Premium,8,TV Ad,41,2333.91,90480.83,202,Automotive,Wallet,Tablet,4175,31,22,4,4,7,4.6,0
+93,Xena Nambiar,61,Male,Guwahati,Assam,96507,Master's,Retired,Free,9,Social Media,80,144.49,11471.08,336,Automotive,Cash on Delivery,Desktop,3935,67,20,5,9,12,4.7,0
+94,Manoj Bhatia,33,Male,Hubli,Karnataka,144283,High School,Salaried,Free,11,TV Ad,2,1147.31,2238.71,212,Home & Kitchen,Net Banking,App,1131,0,17,2,2,3,2.1,1
+95,Qasim Reddy,47,Other,Meerut,Uttar Pradesh,91601,Master's,Retired,Basic,4,None,33,1556.39,46619.2,127,Sports,Cash on Delivery,Tablet,2367,13,22,5,7,5,4.0,0
+96,Wendy Chopra,35,Female,Kolkata,West Bengal,95166,Diploma,Business Owner,Free,5,None,50,2060.47,117074.12,75,Sports,Credit Card,Tablet,3623,16,23,3,3,1,4.7,0
+97,Krunal Patil,62,Female,Jaipur,Rajasthan,34316,Diploma,Retired,Free,1,Friend Referral,75,659.06,42767.87,272,Home & Kitchen,Wallet,Desktop,3385,60,3,5,2,0,2.9,1
+98,Nikhil Kapoor,59,Female,Varanasi,Uttar Pradesh,105267,Bachelor's,Self-Employed,Basic,6,Google,41,770.71,27420.09,46,Automotive,Debit Card,Mobile,1440,25,25,3,2,5,4.9,0
+99,Nandini Verma,18,Female,Hubli,Karnataka,99007,High School,Self-Employed,Premium,3,Friend Referral,36,1179.52,44262.87,269,Toys,Debit Card,App,922,10,23,3,10,4,4.4,0
+100,Priya Luthra,39,Female,Hubli,Karnataka,108395,Bachelor's,Salaried,Enterprise,10,Social Media,78,2151.87,187838.46,219,Furniture,UPI,Mobile,781,17,15,2,3,0,3.5,0
+101,Girish Parikh,35,Female,Visakhapatnam,Andhra Pradesh,96344,Diploma,Student,Basic,6,None,33,1661.91,58014.63,32,Clothing,Net Banking,Tablet,4116,19,22,0,10,4,3.7,0
+102,Eshan Desai,26,Female,Lucknow,Uttar Pradesh,79634,Diploma,Self-Employed,Enterprise,8,Google,53,1778.7,105945.55,276,Home & Kitchen,Debit Card,Mobile,2963,36,3,0,8,8,3.4,0
+103,Tarun Rao,28,Female,Vijayawada,Andhra Pradesh,77912,High School,Retired,Basic,8,Email Campaign,26,1814.94,47030.28,262,Toys,Credit Card,App,3403,18,1,4,7,10,4.6,0
+104,Tara Mehta,43,Female,Mumbai,Maharashtra,117754,Bachelor's,Freelancer,Enterprise,0,Email Campaign,9,189.6,1626.81,33,Furniture,Credit Card,Mobile,2351,2,24,1,6,5,5.0,0
+105,Yash Parikh,42,Female,Hyderabad,Telangana,109486,Diploma,Salaried,Free,12,Friend Referral,44,367.09,18540.09,202,Furniture,Debit Card,Desktop,186,29,21,5,8,6,4.1,0
+106,Falguni Mishra,47,Female,Lucknow,Uttar Pradesh,56129,Bachelor's,Retired,Free,1,Google,14,157.97,2317.87,315,Electronics,Debit Card,Desktop,4865,7,19,5,0,1,4.5,0
+107,Bela Parikh,32,Other,Kanpur,Uttar Pradesh,118878,High School,Salaried,Basic,4,None,64,2484.23,146310.96,295,Beauty,Cash on Delivery,Tablet,1173,28,13,2,4,0,4.1,0
+108,Bindu Luthra,29,Other,Noida,Uttar Pradesh,75994,Diploma,Business Owner,Enterprise,6,Friend Referral,6,2432.94,16531.48,344,Books,Cash on Delivery,Tablet,1222,3,5,6,4,7,3.5,0
+109,Eshan Jain,63,Male,Madurai,Tamil Nadu,139896,High School,Freelancer,Basic,5,Email Campaign,52,2422.04,128110.59,69,Books,Debit Card,Tablet,647,23,2,4,3,0,3.5,0
+110,Mukesh Fernandes,56,Male,Pune,Maharashtra,44662,Diploma,Retired,Basic,11,None,71,605.18,39215.26,171,Sports,Credit Card,Desktop,961,61,29,1,9,3,3.8,0
+111,Girish Patil,38,Female,Aurangabad,Maharashtra,81112,Diploma,Retired,Premium,3,Friend Referral,45,826.38,35621.28,255,Toys,Credit Card,App,3036,26,1,4,3,2,3.0,0
+112,Vivek Hegde,55,Other,Guwahati,Assam,,Master's,Salaried,Premium,12,None,25,878.27,21165.25,126,Toys,Cash on Delivery,Tablet,4002,20,23,3,7,2,4.5,0
+113,Varsha Kumar,26,Other,Dhanbad,Jharkhand,84004,Bachelor's,Freelancer,Basic,10,Google,7,1347.95,10395.45,39,Electronics,Credit Card,App,1895,2,0,1,7,5,3.1,0
+114,Hemant Kaur,57,Female,Bhubaneswar,Odisha,83944,High School,Student,Free,8,Social Media,68,1414.98,82127.93,272,Sports,Cash on Delivery,Tablet,3527,13,29,0,8,2,3.5,0
+115,Firoz Modi,34,Female,Ranchi,Jharkhand,,PhD,Student,Free,1,Email Campaign,47,2401.5,111482.12,125,Home & Kitchen,UPI,Mobile,3320,24,17,3,0,0,4.4,0
+116,Amit Roy,45,Other,Meerut,Uttar Pradesh,94167,High School,Freelancer,Free,1,TV Ad,5,636.03,3562.98,355,Automotive,Net Banking,Tablet,2296,4,21,0,1,1,3.0,0
+117,Chirag Hegde,27,Other,Amritsar,Punjab,141749,High School,Self-Employed,Basic,12,TV Ad,20,1444.78,29473.77,200,Furniture,UPI,App,642,11,1,0,6,1,4.7,0
+118,Tanvi Fernandes,57,Other,Amritsar,Punjab,146998,Master's,Student,Enterprise,2,None,34,1976.19,66193.69,117,Beauty,Cash on Delivery,App,4799,24,2,6,9,9,4.6,0
+119,Shyam Joshi,23,Female,Lucknow,Uttar Pradesh,69807,Bachelor's,Retired,Premium,1,Google,49,846.36,36576.55,3,Sports,Net Banking,Tablet,1085,11,13,3,8,8,4.0,0
+120,Nisha Mehta,23,Female,Mysuru,Karnataka,32198,Diploma,Freelancer,Basic,10,Social Media,41,2170.2,75960.88,212,Books,Credit Card,Desktop,3118,8,8,2,4,3,3.3,0
+121,Lakshmi Bose,35,Female,Visakhapatnam,Andhra Pradesh,83469,High School,Self-Employed,Enterprise,1,Friend Referral,32,2365.02,80695.98,254,Automotive,Cash on Delivery,Desktop,1109,0,30,3,5,6,4.6,0
+122,Sachin Parikh,39,Female,Jalandhar,Punjab,147693,Diploma,Salaried,Enterprise,5,None,38,856.01,36893.16,103,Toys,UPI,Desktop,2387,31,30,4,3,5,3.8,0
+123,Akash Kulkarni,25,Other,Surat,Gujarat,97624,Diploma,Salaried,Free,12,None,70,145.14,10852.33,363,Home & Kitchen,Net Banking,Tablet,3351,63,4,5,4,3,3.5,0
+124,Sunita Arora,45,Female,Pune,Maharashtra,78860,Diploma,Business Owner,Premium,11,TV Ad,74,1049.95,77850.43,355,Books,Cash on Delivery,Mobile,4398,10,3,6,3,5,3.3,0
+125,Ekta Verma,54,Other,Noida,Uttar Pradesh,104769,PhD,Self-Employed,Enterprise,5,Email Campaign,55,336.39,16273.54,114,Furniture,Wallet,Desktop,3204,49,21,4,8,2,3.7,0
+126,Sneha Doshi,24,Female,Guwahati,Assam,,High School,Student,Enterprise,1,None,18,922.96,15831.13,106,Furniture,Net Banking,Tablet,3589,14,10,0,4,0,4.6,0
+127,Arjun Mehta,39,Other,Chennai,Tamil Nadu,108754,Bachelor's,Retired,Basic,12,None,31,1328.71,41831.47,170,Furniture,Net Banking,App,3318,11,5,5,10,13,3.8,0
+128,Vimal Shaikh,30,Female,Bareilly,Uttar Pradesh,76302,PhD,Student,Premium,5,Email Campaign,27,578.0,16787.34,33,Automotive,Credit Card,Desktop,1614,3,8,5,7,8,4.9,0
+129,Qasim Fernandes,42,Other,Amritsar,Punjab,96939,High School,Self-Employed,Basic,5,Social Media,45,2126.15,99045.41,345,Sports,Cash on Delivery,Mobile,965,19,3,1,5,5,3.3,0
+130,Zara Kapoor,56,Male,Hubli,Karnataka,70293,PhD,Salaried,Enterprise,4,Social Media,62,1617.91,106131.42,331,Groceries,Cash on Delivery,Desktop,1149,20,26,3,9,0,4.7,0
+131,Priya Roy,26,Male,Aurangabad,Maharashtra,146331,Diploma,Freelancer,Free,9,Social Media,63,1070.11,67249.59,364,Toys,Net Banking,Desktop,252,37,1,2,3,4,3.6,0
+132,Babita Shetty,54,Other,Gurgaon,Haryana,120390,PhD,Freelancer,Enterprise,8,Email Campaign,65,353.97,20345.14,279,Beauty,Cash on Delivery,Mobile,1790,13,23,6,10,7,3.6,0
+133,Karan Parikh,34,Female,Hyderabad,Telangana,77549,High School,Salaried,Basic,9,Social Media,26,2041.9,54489.75,180,Automotive,Wallet,App,1140,26,6,6,0,4,3.7,0
+134,Leela Fernandes,52,Male,Kochi,Kerala,148319,Master's,Self-Employed,Free,4,None,73,726.97,58768.67,348,Clothing,Debit Card,App,1039,16,7,1,5,6,3.5,0
+135,Mukesh Trivedi,49,Male,Hubli,Karnataka,102890,Master's,Retired,Premium,7,Friend Referral,53,987.92,45692.0,48,Books,Cash on Delivery,Tablet,3998,37,0,6,1,7,4.3,0
+136,Prem Pandey,22,Other,Amritsar,Punjab,48551,PhD,Salaried,Enterprise,12,None,63,729.86,50510.47,173,Furniture,Cash on Delivery,Desktop,2815,6,1,0,10,7,3.0,0
+137,Nikhil Parikh,47,Male,Ludhiana,Punjab,46518,Bachelor's,Retired,Premium,1,None,38,464.73,19952.29,141,Clothing,Wallet,Tablet,3046,10,1,3,10,4,4.5,0
+138,Yamini Desai,45,Other,Hyderabad,Telangana,112235,High School,Student,Free,0,Google,27,1233.87,29643.56,116,Furniture,Wallet,App,2814,27,13,5,2,7,3.1,0
+139,Zara Singh,64,Male,Chennai,Tamil Nadu,61071,Master's,Self-Employed,Basic,7,None,17,1006.18,18713.11,69,Groceries,Credit Card,Mobile,2876,6,20,5,2,6,4.2,0
+140,Harsh Gupta,23,Male,Jaipur,Rajasthan,118624,High School,Freelancer,Basic,8,TV Ad,49,930.72,44639.21,72,Home & Kitchen,UPI,Mobile,4923,46,19,2,0,2,4.8,0
+141,Chirag Modi,56,Other,Surat,Gujarat,,PhD,Self-Employed,Basic,7,Google,6,1976.8,12906.13,123,Toys,Net Banking,Mobile,4865,4,28,0,2,1,3.3,0
+142,Yogesh Kapoor,41,Other,Noida,Uttar Pradesh,42645,PhD,Student,Premium,10,Email Campaign,2,1501.42,2564.84,111,Electronics,Credit Card,App,4104,1,22,3,0,1,3.6,0
+143,Payal Singh,50,Male,Lucknow,Uttar Pradesh,90305,Master's,Business Owner,Basic,0,Google,75,1614.99,133280.03,349,Clothing,UPI,App,2002,55,3,3,9,9,3.1,0
+144,Lata Luthra,60,Other,Nagpur,Maharashtra,35655,High School,Retired,Basic,5,None,17,1777.63,27172.05,178,Furniture,Cash on Delivery,Tablet,1039,8,23,0,0,0,4.6,0
+145,Krunal Modi,22,Female,Chandigarh,Chandigarh,147801,Diploma,Retired,Premium,2,Google,9,1280.68,11563.4,29,Toys,Cash on Delivery,Desktop,2089,9,21,5,1,1,4.5,0
+146,Aarav Verma,18,Male,Bangalore,Karnataka,81835,Master's,Business Owner,Basic,5,Email Campaign,19,513.09,11095.03,19,Furniture,Wallet,App,2033,10,8,6,1,5,3.2,0
+147,Mukesh Patel,29,Male,Vijayawada,Andhra Pradesh,148635,High School,Business Owner,Free,5,Friend Referral,8,2202.32,19553.25,160,Beauty,Credit Card,App,1643,4,23,4,3,7,3.7,0
+148,Oshi Sethi,30,Other,Dhanbad,Jharkhand,119677,Bachelor's,Salaried,Premium,0,None,0,2336.4,0.0,278,Beauty,Wallet,Mobile,3082,0,23,2,0,0,2.1,1
+149,Girish Kapoor,49,Male,Lucknow,Uttar Pradesh,113277,Master's,Student,Enterprise,11,TV Ad,5,2309.48,12923.69,267,Books,Wallet,Tablet,695,0,16,1,5,6,3.8,0
+150,Bindu Bhosale,21,Female,Bhubaneswar,Odisha,146382,Bachelor's,Salaried,Premium,3,Social Media,37,711.6,24868.0,202,Beauty,UPI,App,611,8,24,6,9,3,3.3,0
+151,Lakshmi Parikh,47,Female,Guwahati,Assam,35825,Diploma,Self-Employed,Free,3,Social Media,26,1173.64,30179.1,62,Clothing,Debit Card,Tablet,2685,2,22,1,5,3,4.0,0
+152,Mukesh Jain,34,Male,Delhi,Delhi,144793,PhD,Business Owner,Free,0,Social Media,71,1890.35,124142.8,237,Clothing,Debit Card,Mobile,1820,25,26,3,5,1,4.2,0
+153,Jyoti Joshi,19,Male,Surat,Gujarat,138291,PhD,Salaried,Free,2,Email Campaign,11,2270.29,27440.71,170,Clothing,Credit Card,App,4701,11,12,3,0,3,4.4,0
+154,Gaurav Pandey,31,Male,Ranchi,Jharkhand,56681,PhD,Salaried,Enterprise,0,Friend Referral,4,1566.14,6484.4,332,Sports,Net Banking,App,718,3,4,3,1,4,3.5,0
+155,Uma Mehta,42,Other,Nashik,Maharashtra,82873,Diploma,Business Owner,Premium,9,Google,44,2288.68,100774.22,199,Sports,Debit Card,Mobile,1794,17,1,6,7,8,3.7,0
+156,Abhi Desai,28,Male,Vadodara,Gujarat,106096,Bachelor's,Self-Employed,Premium,2,Social Media,68,2055.41,157263.72,29,Home & Kitchen,Cash on Delivery,App,1442,40,25,5,5,9,3.1,0
+157,Prem Pandey,54,Other,Lucknow,Uttar Pradesh,93807,Bachelor's,Business Owner,Free,8,Google,69,827.91,56961.89,47,Electronics,Debit Card,Desktop,3915,42,29,4,3,2,3.7,0
+158,Gaurav Choudhary,21,Male,Lucknow,Uttar Pradesh,96888,Bachelor's,Student,Premium,4,Social Media,67,2162.82,164930.66,192,Books,Cash on Delivery,Mobile,2642,20,23,3,10,7,4.3,0
+159,Gaurav Arora,53,Other,Moradabad,Uttar Pradesh,123152,Master's,Salaried,Free,11,Email Campaign,75,2050.98,148211.29,353,Sports,Debit Card,Desktop,4692,72,1,1,9,5,4.8,0
+160,Ekta Desai,58,Other,Chennai,Tamil Nadu,142773,PhD,Salaried,Premium,7,Friend Referral,42,1883.73,72897.99,164,Groceries,Wallet,Mobile,93,13,7,5,1,2,3.5,0
+161,Nisha Chopra,18,Male,Aurangabad,Maharashtra,77438,PhD,Salaried,Basic,2,Google,52,1273.26,63800.41,280,Books,Credit Card,App,3696,51,27,0,4,0,3.6,0
+162,Nisha Joshi,39,Male,Aurangabad,Maharashtra,41090,High School,Freelancer,Enterprise,2,Google,11,897.84,11314.05,248,Electronics,Net Banking,Desktop,438,5,6,1,6,4,4.3,0
+163,Om Mishra,24,Male,Amritsar,Punjab,94943,Diploma,Business Owner,Basic,1,Social Media,19,211.9,3426.79,45,Sports,Wallet,App,210,5,20,2,1,3,4.7,0
+164,Payal Trivedi,48,Female,Bhubaneswar,Odisha,54734,High School,Retired,Free,4,Email Campaign,69,1017.82,67512.13,196,Beauty,Debit Card,App,3602,33,7,6,4,9,3.1,0
+165,Yamini Khanna,60,Male,Hyderabad,Telangana,107574,Master's,Freelancer,Enterprise,9,Email Campaign,52,2429.11,129713.82,284,Electronics,Net Banking,App,1930,19,2,3,0,1,3.2,0
+166,Yamini Parikh,29,Male,Kanpur,Uttar Pradesh,125966,Bachelor's,Salaried,Premium,5,Google,5,1104.57,6331.86,223,Home & Kitchen,Wallet,Desktop,548,3,17,3,4,5,4.7,0
+167,Ramesh Shetty,18,Other,Moradabad,Uttar Pradesh,97014,Diploma,Business Owner,Free,12,TV Ad,14,1082.95,13561.18,302,Automotive,Credit Card,Mobile,2343,14,11,3,4,6,4.3,0
+168,Zeenat Fernandes,48,Male,Nagpur,Maharashtra,56099,PhD,Salaried,Free,11,Friend Referral,79,1552.95,129810.74,20,Books,UPI,Desktop,3892,47,0,2,4,2,3.6,0
+169,Naveen Khanna,61,Male,Indore,Madhya Pradesh,37614,Master's,Retired,Basic,7,Email Campaign,56,1953.15,103498.57,214,Automotive,Wallet,Mobile,1731,47,15,6,8,13,3.7,0
+170,Meera Saxena,28,Male,Visakhapatnam,Andhra Pradesh,113004,Diploma,Business Owner,Basic,0,Google,17,1968.85,33714.31,292,Electronics,Debit Card,Desktop,2043,14,1,2,3,2,3.7,0
+171,Kiran Saxena,43,Other,Kolkata,West Bengal,109282,High School,Salaried,Premium,2,None,47,1262.86,58394.72,243,Automotive,Cash on Delivery,Tablet,2118,44,2,2,0,1,3.1,0
+172,Zeenat Sethi,31,Male,Jalandhar,Punjab,49505,Bachelor's,Self-Employed,Basic,9,Social Media,52,1322.14,76271.91,350,Electronics,Net Banking,Desktop,69,16,19,6,4,10,3.6,0
+173,Yash Pandey,47,Female,Kanpur,Uttar Pradesh,81171,Master's,Retired,Premium,4,Email Campaign,66,2074.83,132713.64,53,Electronics,Cash on Delivery,Tablet,885,8,10,2,10,5,4.7,0
+174,Jyoti Malhotra,63,Other,Visakhapatnam,Andhra Pradesh,44688,Bachelor's,Freelancer,Basic,11,None,30,2257.24,73922.06,308,Books,Wallet,Tablet,208,15,9,2,6,6,3.8,0
+175,Karan Hegde,63,Other,Surat,Gujarat,64979,Bachelor's,Retired,Basic,10,Social Media,68,1624.72,109676.72,344,Beauty,Cash on Delivery,Tablet,4573,37,3,3,2,5,3.5,0
+176,Wendy Walia,29,Other,Meerut,Uttar Pradesh,105778,High School,Salaried,Premium,7,Email Campaign,45,620.45,31031.39,216,Beauty,UPI,Tablet,964,3,27,5,9,9,4.9,0
+177,Deepika Doshi,30,Other,Kolkata,West Bengal,133704,PhD,Freelancer,Enterprise,9,Social Media,38,1079.72,45594.07,78,Groceries,Debit Card,Tablet,3748,20,27,5,2,1,4.0,0
+178,Gita Reddy,38,Other,Ahmedabad,Gujarat,20617,PhD,Self-Employed,Enterprise,10,Email Campaign,26,1922.09,45005.98,82,Toys,Credit Card,Desktop,3517,13,30,3,6,0,3.1,0
+179,Bhavna Chopra,41,Male,Kochi,Kerala,119201,Diploma,Salaried,Premium,2,Email Campaign,2,1717.73,3566.03,128,Home & Kitchen,Wallet,Tablet,841,2,18,2,0,0,4.6,0
+180,Om Bhatt,47,Other,Vijayawada,Andhra Pradesh,98167,Diploma,Self-Employed,Basic,12,Google,55,2228.9,140811.41,176,Toys,UPI,Desktop,3304,14,7,5,2,3,4.5,0
+181,Bindu Saxena,28,Male,Rajkot,Gujarat,113206,High School,Business Owner,Free,0,Email Campaign,32,1946.42,64586.29,305,Electronics,Wallet,Mobile,948,28,12,0,8,4,3.9,0
+182,Sunita Gupta,62,Other,Gwalior,Madhya Pradesh,21219,Master's,Business Owner,Free,4,Google,12,1683.21,18804.68,311,Groceries,Net Banking,Mobile,933,7,6,4,3,4,2.7,1
+183,Bhavna Pandey,63,Female,Coimbatore,Tamil Nadu,41020,High School,Freelancer,Free,10,Google,63,2283.06,151953.75,247,Beauty,Debit Card,Mobile,729,63,4,0,8,1,4.4,0
+184,Suresh Tiwari,59,Male,Madurai,Tamil Nadu,149586,Master's,Self-Employed,Enterprise,11,Google,59,201.19,12985.46,21,Sports,UPI,Tablet,949,54,24,0,0,0,4.3,0
+185,Lakshmi Nambiar,40,Female,Moradabad,Uttar Pradesh,55167,High School,Self-Employed,Enterprise,10,Google,43,522.54,21800.38,234,Sports,Net Banking,App,1366,8,22,5,0,1,3.2,0
+186,Bindu Doshi,54,Other,Jodhpur,Rajasthan,43758,Diploma,Business Owner,Enterprise,7,Google,45,1559.49,77810.4,67,Toys,Net Banking,Mobile,376,16,20,2,0,2,4.7,0
+187,Shruti Sethi,65,Other,Patna,Bihar,94057,Bachelor's,Retired,Enterprise,5,Social Media,43,1336.22,60702.23,317,Clothing,Net Banking,Desktop,3152,35,28,4,0,0,4.3,0
+188,Nikhil Saxena,48,Female,Bhopal,Madhya Pradesh,29812,PhD,Self-Employed,Enterprise,3,Email Campaign,30,880.77,24664.57,260,Home & Kitchen,Cash on Delivery,App,645,14,25,4,7,1,2.7,1
+189,Indira Choudhary,25,Female,Thane,Maharashtra,105638,High School,Student,Basic,10,Friend Referral,51,1077.86,55913.02,1,Clothing,Cash on Delivery,Tablet,3737,23,26,0,3,3,3.7,0
+190,Alok Shaikh,56,Female,Chandigarh,Chandigarh,106136,Master's,Retired,Premium,8,Friend Referral,57,355.94,21866.95,114,Electronics,UPI,Tablet,4276,44,3,0,2,1,3.3,0
+191,Shyam Luthra,64,Female,Chennai,Tamil Nadu,53330,Diploma,Salaried,Free,12,Google,24,372.2,9876.62,111,Toys,Debit Card,Tablet,3395,20,26,5,9,1,4.5,0
+192,Indira Shetty,60,Other,Jabalpur,Madhya Pradesh,37647,PhD,Student,Basic,11,Google,67,1861.64,126721.55,222,Automotive,Net Banking,Desktop,1051,49,21,4,9,5,4.0,0
+193,Zara Kapoor,56,Other,Navi Mumbai,Maharashtra,52537,Master's,Business Owner,Premium,11,None,43,2428.59,102952.08,69,Groceries,Net Banking,Tablet,4534,13,6,1,9,4,4.4,0
+194,Mukesh Sharma,63,Other,Nagpur,Maharashtra,86046,Diploma,Retired,Premium,6,TV Ad,41,1799.05,79531.56,288,Toys,Cash on Delivery,App,104,6,0,3,2,0,4.3,0
+195,Bhavna Agarwal,28,Female,Noida,Uttar Pradesh,52841,Bachelor's,Student,Enterprise,3,None,37,573.68,21488.34,184,Toys,Credit Card,Desktop,4185,18,22,5,0,3,3.8,0
+196,Neha Choudhary,53,Male,Mumbai,Maharashtra,117474,Master's,Salaried,Basic,12,Friend Referral,79,2182.62,191072.1,227,Home & Kitchen,Wallet,Tablet,1585,57,5,5,1,1,4.9,0
+197,Vimal Saxena,25,Female,Bangalore,Karnataka,76165,Master's,Freelancer,Basic,0,Friend Referral,33,394.76,13355.31,131,Electronics,UPI,App,1259,3,24,5,9,13,4.3,0
+198,Naveen Bhosale,53,Female,Pune,Maharashtra,122764,Master's,Freelancer,Free,5,Social Media,28,2395.91,67500.19,259,Groceries,Net Banking,App,1812,21,10,2,5,4,3.4,0
+199,Yamini Shaikh,51,Female,Mysuru,Karnataka,127962,High School,Student,Premium,6,Email Campaign,44,1158.51,57160.13,315,Automotive,Debit Card,Mobile,928,16,17,5,4,0,4.8,0
+200,Alok Kulkarni,50,Other,Jodhpur,Rajasthan,83806,High School,Self-Employed,Free,3,None,24,855.16,17952.28,50,Groceries,Cash on Delivery,Mobile,1746,13,26,0,3,3,4.3,0
+201,Deepika Luthra,61,Male,Delhi,Delhi,80191,Master's,Student,Premium,6,Email Campaign,11,257.26,2556.49,129,Furniture,Credit Card,Desktop,3178,10,12,3,5,0,3.8,0
+202,Pooja Rawat,18,Other,Patna,Bihar,101048,High School,Retired,Premium,9,Friend Referral,74,190.15,15541.18,184,Furniture,Credit Card,Tablet,708,56,12,3,10,0,3.9,0
+203,Tarun Desai,26,Other,Amritsar,Punjab,124434,Diploma,Self-Employed,Free,0,TV Ad,18,801.3,16097.86,332,Beauty,Credit Card,Desktop,41,12,17,4,1,2,1.4,1
+204,Vimal Chopra,40,Male,Guwahati,Assam,138702,Diploma,Salaried,Free,12,Email Campaign,20,525.26,10873.57,130,Home & Kitchen,Credit Card,Desktop,4496,20,17,0,4,0,3.5,0
+205,Bhavna Chopra,55,Female,Meerut,Uttar Pradesh,66810,Bachelor's,Retired,Premium,9,None,30,322.11,10009.78,100,Beauty,Net Banking,App,2504,18,4,4,9,5,4.6,0
+206,Farhan Kumar,18,Female,Vadodara,Gujarat,122978,Bachelor's,Retired,Enterprise,5,Email Campaign,55,749.57,39488.49,348,Beauty,Net Banking,App,2502,35,3,1,10,9,3.2,0
+207,Leela Sharma,52,Male,Agra,Uttar Pradesh,116147,High School,Retired,Basic,0,Friend Referral,9,2238.89,22263.27,324,Electronics,Cash on Delivery,App,4518,8,28,4,7,10,2.6,1
+208,Wasim Trivedi,32,Other,Patna,Bihar,132350,Master's,Salaried,Basic,12,Social Media,59,1292.72,66901.89,187,Furniture,Credit Card,Desktop,4211,28,5,1,9,9,4.3,0
+209,Manoj Luthra,64,Female,Nashik,Maharashtra,25297,Bachelor's,Business Owner,Enterprise,7,Google,29,232.12,6467.81,22,Home & Kitchen,Cash on Delivery,Tablet,3724,1,20,2,1,2,4.7,0
+210,Jyoti Hegde,52,Other,Nagpur,Maharashtra,69369,PhD,Self-Employed,Enterprise,5,Email Campaign,75,1661.07,137118.1,265,Sports,Net Banking,Desktop,2826,61,28,4,0,4,4.8,0
+211,Harsh Kumar,32,Male,Jabalpur,Madhya Pradesh,104341,Master's,Salaried,Free,7,Email Campaign,19,532.31,9695.85,61,Home & Kitchen,Net Banking,Tablet,3922,6,18,1,10,6,3.0,0
+212,Anjali Sharma,54,Other,Bhopal,Madhya Pradesh,37658,Diploma,Student,Premium,1,Email Campaign,73,435.41,28603.34,93,Furniture,Net Banking,Mobile,1774,60,27,3,2,1,4.7,0
+213,Cyrus Rao,55,Male,Moradabad,Uttar Pradesh,106461,Diploma,Self-Employed,Basic,6,Social Media,21,1832.53,36666.78,233,Automotive,Cash on Delivery,Mobile,3157,3,0,1,8,8,4.4,0
+214,Sunita Fernandes,24,Male,Varanasi,Uttar Pradesh,138175,Diploma,Freelancer,Free,12,TV Ad,4,2204.16,8899.77,61,Clothing,Net Banking,Desktop,3534,3,11,6,0,5,4.1,0
+215,Falguni Doshi,42,Female,Bareilly,Uttar Pradesh,125463,Diploma,Student,Premium,3,None,54,404.0,21666.39,120,Clothing,UPI,App,44,47,25,0,9,8,3.2,0
+216,Aarav Menon,59,Male,Faridabad,Haryana,125419,Master's,Business Owner,Premium,9,None,46,337.93,15200.02,300,Sports,UPI,App,2257,25,24,1,6,7,3.4,0
+217,Wendy Patil,48,Female,Visakhapatnam,Andhra Pradesh,,Diploma,Self-Employed,Enterprise,12,Google,50,1860.59,102937.11,338,Clothing,Wallet,Desktop,1325,13,16,3,5,8,4.2,0
+218,Neha Arora,21,Male,Aurangabad,Maharashtra,146428,High School,Student,Premium,1,Google,18,1221.44,22647.12,46,Clothing,UPI,Desktop,4989,12,29,3,9,10,4.0,0
+219,Shyam Fernandes,21,Male,Gwalior,Madhya Pradesh,84797,PhD,Student,Basic,9,None,25,2138.37,60367.66,266,Sports,Debit Card,Mobile,1388,1,11,1,10,0,5.0,0
+220,Kavya Agarwal,43,Female,Bhubaneswar,Odisha,71792,PhD,Freelancer,Premium,5,Social Media,25,1332.94,35692.06,36,Clothing,Cash on Delivery,Tablet,2265,19,30,1,7,6,4.1,0
+221,Jyoti Reddy,44,Other,Chennai,Tamil Nadu,93220,High School,Freelancer,Enterprise,6,Email Campaign,37,902.72,29563.0,263,Sports,Cash on Delivery,Tablet,4613,15,24,2,7,7,4.8,0
+222,Sneha Doshi,25,Female,Pune,Maharashtra,70157,Bachelor's,Retired,Premium,3,Google,29,2016.39,56939.03,181,Furniture,Cash on Delivery,Mobile,2353,12,21,5,5,1,4.1,0
+223,Gaurav Doshi,38,Female,Kanpur,Uttar Pradesh,137219,Diploma,Self-Employed,Basic,11,Friend Referral,23,2372.03,57553.61,98,Toys,Wallet,Desktop,1982,6,7,1,3,4,3.7,0
+224,Babita Nair,25,Male,Noida,Uttar Pradesh,145275,PhD,Freelancer,Enterprise,9,Email Campaign,0,1929.47,0.0,22,Toys,UPI,Tablet,2250,0,5,6,0,3,3.4,0
+225,Zeenat Sharma,21,Other,Ludhiana,Punjab,82694,Diploma,Student,Premium,11,Google,64,920.44,65277.31,90,Toys,Credit Card,App,68,26,12,4,1,2,3.7,0
+226,Jyoti Reddy,53,Female,Vadodara,Gujarat,55311,PhD,Freelancer,Premium,6,Email Campaign,43,965.54,41502.9,108,Books,Wallet,Tablet,2290,11,18,1,9,10,3.5,0
+227,Suresh Chopra,35,Male,Mysuru,Karnataka,76651,PhD,Salaried,Enterprise,2,TV Ad,18,2016.09,38886.6,243,Electronics,Debit Card,App,4235,10,25,3,4,4,4.1,0
+228,Yogesh Patel,43,Male,Faridabad,Haryana,41409,High School,Salaried,Premium,8,Friend Referral,32,1233.23,41000.8,231,Beauty,UPI,Tablet,4566,22,0,3,1,2,4.7,0
+229,Dolly Pillai,54,Other,Jalandhar,Punjab,105082,Diploma,Salaried,Premium,7,Social Media,36,939.36,35574.02,250,Toys,Credit Card,App,1186,21,13,5,9,9,3.8,0
+230,Deepika Singh,28,Female,Indore,Madhya Pradesh,61088,Master's,Retired,Enterprise,6,Social Media,37,1799.25,68676.96,203,Sports,Net Banking,Tablet,1370,1,4,5,3,4,4.9,0
+231,Prem Luthra,23,Male,Bhopal,Madhya Pradesh,72041,High School,Student,Free,4,Google,8,2347.04,18625.28,28,Electronics,Net Banking,Mobile,1272,6,9,1,3,2,3.9,0
+232,Sanjay Sharma,51,Male,Delhi,Delhi,24607,Master's,Self-Employed,Basic,9,Email Campaign,60,1210.61,80718.84,140,Furniture,Net Banking,Desktop,4895,40,23,5,9,6,4.0,0
+233,Hemant Rawat,37,Female,Varanasi,Uttar Pradesh,90735,Bachelor's,Student,Basic,5,Email Campaign,56,825.04,44985.33,80,Sports,Credit Card,Mobile,2349,34,0,5,7,12,4.0,0
+234,Priya Sethi,45,Female,Aligarh,Uttar Pradesh,50305,High School,Freelancer,Enterprise,6,Friend Referral,47,536.34,28098.04,224,Books,Debit Card,Desktop,1807,5,13,5,3,8,4.5,0
+235,Ekta Khanna,61,Female,Coimbatore,Tamil Nadu,104994,Diploma,Self-Employed,Enterprise,4,Social Media,52,534.96,24216.59,70,Sports,Credit Card,App,4030,20,0,1,0,0,3.4,0
+236,Nisha Bhatt,35,Male,Chandigarh,Chandigarh,77464,High School,Salaried,Premium,7,Friend Referral,11,444.65,4881.73,176,Books,UPI,App,259,1,26,6,2,0,3.5,0
+237,Akash Joshi,52,Female,Nagpur,Maharashtra,45191,Master's,Business Owner,Free,3,None,1,375.15,405.33,128,Books,Net Banking,Desktop,3775,0,16,5,0,3,3.8,0
+238,Payal Choudhary,28,Other,Patna,Bihar,25529,Diploma,Freelancer,Free,3,Friend Referral,15,693.02,10827.29,102,Beauty,Credit Card,Desktop,3556,0,5,6,4,9,3.2,0
+239,Hetal Shah,20,Other,Faridabad,Haryana,82294,Diploma,Salaried,Free,0,None,47,1945.33,84538.17,256,Clothing,Wallet,Tablet,2912,9,22,4,1,1,2.0,1
+240,Qasim Patil,59,Female,Jodhpur,Rajasthan,116100,Bachelor's,Student,Premium,8,Social Media,48,946.77,40465.09,21,Toys,Wallet,App,4014,36,5,4,5,5,4.5,0
+241,Leela Fernandes,53,Male,Pune,Maharashtra,89617,Bachelor's,Business Owner,Basic,0,TV Ad,37,2062.99,77283.37,233,Electronics,Wallet,App,2982,15,10,5,1,5,2.9,1
+242,Zara Pillai,51,Other,Raipur,Chhattisgarh,120366,Diploma,Salaried,Free,2,Google,78,765.17,58068.31,165,Clothing,Credit Card,Mobile,1463,25,3,3,3,0,3.1,0
+243,Ila Menon,60,Female,Vijayawada,Andhra Pradesh,101785,Diploma,Self-Employed,Free,7,Friend Referral,6,966.58,5983.82,37,Electronics,Debit Card,App,497,4,23,3,6,5,4.6,0
+244,Meera Shaikh,35,Other,Bangalore,Karnataka,116246,High School,Self-Employed,Enterprise,3,TV Ad,9,2365.94,24235.71,50,Clothing,Wallet,Desktop,1582,3,18,5,2,6,4.5,0
+245,Alok Dubey,54,Female,Noida,Uttar Pradesh,80125,PhD,Student,Enterprise,5,TV Ad,21,1997.76,42581.82,259,Beauty,Wallet,Desktop,2581,10,27,2,6,6,4.7,0
+246,Rekha Fernandes,33,Other,Dhanbad,Jharkhand,48039,PhD,Freelancer,Premium,9,TV Ad,32,951.22,30004.4,204,Electronics,Wallet,Mobile,133,8,28,2,0,1,5.0,0
+247,Divya Choudhary,19,Other,Ranchi,Jharkhand,140469,Diploma,Freelancer,Basic,2,Friend Referral,71,1461.02,105960.96,49,Electronics,Net Banking,Tablet,2170,31,7,2,4,0,4.1,0
+248,Yogesh Gupta,64,Male,Patna,Bihar,62558,PhD,Salaried,Free,11,Email Campaign,62,2078.21,136177.76,296,Clothing,Cash on Delivery,Tablet,4720,5,24,0,5,2,4.8,0
+249,Geeta Kapoor,25,Male,Thane,Maharashtra,105561,Diploma,Student,Premium,8,Social Media,80,1005.62,75738.07,22,Beauty,Cash on Delivery,Desktop,1808,6,21,5,6,7,4.5,0
+250,Zeenat Saxena,23,Male,Ludhiana,Punjab,57982,PhD,Salaried,Free,6,Email Campaign,16,893.53,14192.92,26,Furniture,Net Banking,Tablet,4110,4,24,1,7,8,3.4,0
+251,Akash Malhotra,54,Male,Mysuru,Karnataka,100739,Diploma,Salaried,Enterprise,6,Friend Referral,31,253.38,8506.97,166,Automotive,Credit Card,Mobile,2992,12,10,2,9,10,3.0,0
+252,Payal Kumar,40,Other,Jodhpur,Rajasthan,101681,Bachelor's,Business Owner,Free,11,Social Media,5,2316.6,10656.9,351,Beauty,Debit Card,Mobile,446,4,29,1,2,0,3.7,0
+253,Arjun Jain,46,Female,Delhi,Delhi,63499,Bachelor's,Retired,Free,6,None,68,592.74,40867.68,133,Furniture,Net Banking,Desktop,4775,67,1,2,2,0,3.6,0
+254,Prem Shaikh,35,Male,Madurai,Tamil Nadu,105820,High School,Student,Premium,10,Social Media,49,1678.1,86247.34,338,Beauty,Credit Card,Mobile,3166,24,16,5,1,2,4.0,0
+255,Cyrus Rawat,23,Male,Surat,Gujarat,85621,PhD,Freelancer,Basic,0,None,2,176.2,397.04,157,Beauty,Net Banking,App,2840,1,11,5,1,1,3.0,1
+256,Prakash Agarwal,21,Other,Agra,Uttar Pradesh,135169,PhD,Student,Free,11,TV Ad,71,2376.86,154864.1,175,Books,Wallet,Desktop,3131,29,13,1,9,2,3.9,0
+257,Payal Fernandes,39,Female,Dhanbad,Jharkhand,37271,Bachelor's,Retired,Enterprise,12,None,17,1486.09,26658.45,104,Groceries,UPI,Desktop,1189,5,10,0,8,8,4.9,0
+258,Pooja Reddy,38,Male,Patna,Bihar,23864,Master's,Business Owner,Free,2,Google,52,814.1,45452.43,327,Sports,Debit Card,Desktop,1513,48,19,4,4,3,2.2,1
+259,Falguni Bhatia,19,Female,Hyderabad,Telangana,110196,PhD,Salaried,Enterprise,7,Social Media,64,2127.65,134893.56,333,Beauty,Debit Card,App,1126,24,7,0,6,6,4.9,0
+260,Krunal Kapoor,32,Other,Bhubaneswar,Odisha,149531,Bachelor's,Salaried,Enterprise,3,Email Campaign,8,508.53,4623.19,225,Automotive,Net Banking,Tablet,3502,0,19,5,6,11,3.6,0
+261,Ekta Luthra,54,Other,Dhanbad,Jharkhand,88843,High School,Freelancer,Free,8,TV Ad,13,1172.9,16743.55,22,Home & Kitchen,Cash on Delivery,App,3173,12,20,0,3,2,3.9,0
+262,Om Sethi,36,Female,Bhopal,Madhya Pradesh,75372,Master's,Freelancer,Basic,12,None,6,1749.69,11769.49,238,Toys,Credit Card,Mobile,4795,4,4,3,3,2,3.9,0
+263,Gaurav Shetty,55,Other,Surat,Gujarat,135677,PhD,Student,Free,1,None,32,864.26,28889.04,365,Groceries,Wallet,Mobile,3681,23,2,4,6,8,4.2,0
+264,Nikhil Menon,53,Female,Bangalore,Karnataka,120697,Bachelor's,Self-Employed,Enterprise,4,None,72,2188.56,174720.9,84,Groceries,Debit Card,Mobile,2535,57,9,5,2,1,4.8,0
+265,Bhavna Shah,57,Female,Mumbai,Maharashtra,80115,PhD,Business Owner,Enterprise,6,Google,69,2034.04,144895.38,253,Home & Kitchen,Debit Card,App,3619,0,7,4,4,8,4.6,0
+266,Chirag Patel,29,Male,Ahmedabad,Gujarat,105626,Master's,Student,Free,1,Social Media,18,2146.27,40568.33,309,Sports,UPI,Mobile,3415,5,21,2,9,10,4.4,0
+267,Cyrus Bhosale,53,Male,Madurai,Tamil Nadu,118216,Diploma,Self-Employed,Free,4,Social Media,4,305.37,1147.93,189,Books,Credit Card,App,3856,0,22,6,2,5,4.1,0
+268,Shruti Gupta,62,Male,Moradabad,Uttar Pradesh,27626,High School,Freelancer,Enterprise,9,Friend Referral,80,1360.05,95345.05,353,Automotive,Wallet,Tablet,2592,67,18,4,5,2,2.2,1
+269,Oshi Modi,64,Other,Raipur,Chhattisgarh,84553,Bachelor's,Freelancer,Free,11,TV Ad,29,1794.78,59532.03,1,Clothing,Credit Card,App,1698,13,13,0,5,2,4.1,0
+270,Hemant Gupta,18,Other,Surat,Gujarat,110441,Master's,Self-Employed,Premium,6,TV Ad,8,824.81,6611.72,166,Electronics,Credit Card,Tablet,4660,0,26,1,3,2,4.7,0
+271,Mukesh Doshi,48,Male,Jalandhar,Punjab,37793,PhD,Salaried,Premium,9,TV Ad,80,1194.7,106048.0,172,Toys,Net Banking,Mobile,2584,68,0,1,9,10,3.7,0
+272,Varsha Joshi,27,Female,Delhi,Delhi,64453,PhD,Retired,Premium,11,None,68,2118.62,147133.98,200,Groceries,Cash on Delivery,Mobile,2576,4,8,3,1,3,4.8,0
+273,Xena Parikh,37,Male,Vijayawada,Andhra Pradesh,59625,Bachelor's,Student,Enterprise,8,Social Media,47,1979.56,100792.95,48,Toys,Cash on Delivery,Mobile,1262,21,29,3,8,4,4.6,0
+274,Manoj Sethi,24,Other,Noida,Uttar Pradesh,37395,Bachelor's,Retired,Free,10,Google,4,1191.67,5072.24,268,Clothing,Credit Card,Tablet,4868,2,14,0,0,0,3.0,0
+275,Zubin Jain,58,Male,Kochi,Kerala,46287,Bachelor's,Self-Employed,Basic,4,Google,35,1368.11,51802.48,344,Clothing,UPI,Desktop,937,35,16,0,3,2,4.1,0
+276,Krunal Rao,63,Female,Hubli,Karnataka,52089,Bachelor's,Student,Enterprise,10,Google,39,1564.1,58048.83,228,Electronics,Debit Card,Mobile,413,24,1,0,6,3,3.4,0
+277,Cyrus Hegde,58,Other,Faridabad,Haryana,78436,Diploma,Self-Employed,Basic,1,Google,39,884.24,31362.51,344,Furniture,Credit Card,App,3836,29,9,5,10,14,3.9,0
+278,Eshan Rao,57,Female,Rajkot,Gujarat,71390,Bachelor's,Retired,Enterprise,1,Email Campaign,42,1988.84,93114.09,233,Toys,Credit Card,Mobile,2879,29,27,1,4,2,4.2,0
+279,Sanjay Saxena,24,Female,Chandigarh,Chandigarh,124432,High School,Self-Employed,Basic,9,TV Ad,71,1651.67,127556.46,273,Toys,Net Banking,App,1996,20,15,3,1,2,3.4,0
+280,Omkar Hegde,45,Female,Hubli,Karnataka,,Master's,Freelancer,Enterprise,5,Google,30,498.87,15727.6,365,Automotive,Net Banking,Mobile,4547,26,14,1,4,3,3.1,0
+281,Nisha Bhatia,56,Female,Kochi,Kerala,84788,High School,Student,Enterprise,8,Email Campaign,27,2057.22,61998.07,326,Electronics,Debit Card,Desktop,2387,19,18,3,3,1,4.4,0
+282,Qasim Jain,54,Other,Visakhapatnam,Andhra Pradesh,140389,PhD,Retired,Premium,0,TV Ad,44,2476.5,111670.33,314,Furniture,Net Banking,Desktop,3024,3,0,5,8,13,3.0,1
+283,Arjun Bhatt,19,Male,Ludhiana,Punjab,112041,Diploma,Business Owner,Basic,7,Social Media,80,849.87,65598.87,196,Books,Cash on Delivery,Desktop,1139,71,12,6,5,6,3.3,0
+284,Lata Sharma,26,Male,Pune,Maharashtra,104985,High School,Salaried,Enterprise,12,Email Campaign,62,1672.18,118448.09,70,Clothing,Debit Card,App,4951,39,5,3,8,6,4.1,0
+285,Indira Menon,40,Male,Nagpur,Maharashtra,75675,Diploma,Student,Premium,0,TV Ad,73,1285.54,100345.4,365,Furniture,UPI,App,310,61,22,2,1,3,4.9,0
+286,Amit Rao,64,Other,Vijayawada,Andhra Pradesh,148919,Master's,Business Owner,Premium,9,Friend Referral,66,269.33,19855.1,46,Home & Kitchen,Net Banking,Mobile,432,1,15,3,8,7,4.1,0
+287,Sachin Kapoor,40,Female,Coimbatore,Tamil Nadu,41955,High School,Retired,Basic,9,None,76,1893.61,153713.71,289,Sports,Credit Card,App,422,37,25,5,9,0,3.6,0
+288,Amit Sharma,50,Male,Ranchi,Jharkhand,53036,Bachelor's,Freelancer,Enterprise,5,Friend Referral,35,746.03,24207.21,58,Automotive,Debit Card,Desktop,1436,15,15,1,8,0,3.7,0
+289,Amit Rao,56,Male,Raipur,Chhattisgarh,118665,PhD,Business Owner,Free,10,Google,30,1678.81,53778.99,86,Home & Kitchen,Cash on Delivery,Tablet,2165,1,5,3,6,7,3.6,0
+290,Waqar Walia,52,Male,Aurangabad,Maharashtra,109589,PhD,Business Owner,Premium,8,Google,33,431.26,15812.47,7,Sports,Net Banking,App,336,22,30,6,6,9,4.8,0
+291,Krunal Nambiar,35,Female,Chennai,Tamil Nadu,53468,Diploma,Business Owner,Basic,5,Google,59,1951.03,123712.68,345,Automotive,Debit Card,Tablet,4486,43,0,6,1,0,3.8,0
+292,Shruti Nair,61,Female,Nashik,Maharashtra,48759,Master's,Self-Employed,Free,11,Google,24,162.38,4036.71,30,Automotive,Wallet,Desktop,982,19,4,3,10,12,4.8,0
+293,Yogesh Reddy,25,Other,Nagpur,Maharashtra,53205,Master's,Business Owner,Premium,2,Friend Referral,9,1625.85,16488.2,142,Books,Wallet,Tablet,606,0,12,3,5,0,3.5,0
+294,Jyoti Reddy,46,Male,Raipur,Chhattisgarh,148374,Bachelor's,Freelancer,Free,7,Google,50,511.83,25530.52,74,Furniture,Net Banking,Desktop,2121,2,2,0,9,4,4.6,0
+295,Rahul Roy,27,Other,Gwalior,Madhya Pradesh,20113,High School,Retired,Enterprise,6,None,49,724.78,37645.66,201,Automotive,Credit Card,App,3308,49,25,6,1,3,1.0,1
+296,Omkar Sethi,48,Male,Hubli,Karnataka,90163,Master's,Self-Employed,Free,7,None,38,1049.49,41463.15,332,Clothing,UPI,Tablet,2375,12,5,4,0,3,4.3,0
+297,Om Khanna,42,Male,Gwalior,Madhya Pradesh,110287,Master's,Business Owner,Free,11,Social Media,10,2222.22,21808.76,98,Groceries,Credit Card,Desktop,4857,7,12,0,8,4,4.0,0
+298,Indira Mehta,20,Female,Ahmedabad,Gujarat,64265,High School,Business Owner,Basic,1,None,15,592.26,9293.94,268,Toys,Wallet,Desktop,302,4,15,5,0,3,4.8,0
+299,Firoz Verma,33,Other,Jalandhar,Punjab,37109,High School,Salaried,Free,1,Email Campaign,80,200.9,15143.06,50,Toys,Cash on Delivery,Desktop,935,76,25,4,3,1,4.6,0
+300,Farhan Nambiar,65,Other,Amritsar,Punjab,62498,High School,Retired,Premium,1,Friend Referral,73,1401.04,96801.8,110,Electronics,Cash on Delivery,Desktop,989,18,24,3,2,5,3.7,0
+301,Lakshmi Parikh,33,Other,Bangalore,Karnataka,37481,High School,Retired,Basic,1,Friend Referral,78,990.24,69308.32,250,Clothing,Credit Card,Mobile,4863,53,22,6,7,11,3.3,0
+302,Manoj Dubey,35,Other,Jodhpur,Rajasthan,74005,Bachelor's,Salaried,Premium,6,TV Ad,78,1753.85,140751.31,256,Automotive,Credit Card,Tablet,37,30,6,0,8,1,4.2,0
+303,Zubin Rawat,50,Male,Madurai,Tamil Nadu,,Bachelor's,Self-Employed,Basic,10,Google,6,548.8,3585.81,351,Toys,Net Banking,Desktop,353,5,11,2,1,3,3.5,0
+304,Ekta Walia,47,Male,Chennai,Tamil Nadu,117047,High School,Freelancer,Enterprise,9,Friend Referral,22,462.47,8736.9,264,Clothing,Credit Card,Desktop,4749,13,6,5,10,10,3.5,0
+305,Arjun Choudhary,32,Male,Vadodara,Gujarat,116698,PhD,Salaried,Basic,3,Email Campaign,48,2237.1,93642.38,300,Toys,Credit Card,App,4992,11,12,2,2,3,4.4,0
+306,Gita Pandey,35,Male,Meerut,Uttar Pradesh,36673,High School,Retired,Premium,3,TV Ad,72,224.36,14392.34,239,Toys,Net Banking,Desktop,2417,20,25,6,10,5,4.2,0
+307,Vivek Desai,23,Female,Vijayawada,Andhra Pradesh,84122,Bachelor's,Freelancer,Enterprise,9,TV Ad,60,2105.51,117961.36,220,Home & Kitchen,Debit Card,Tablet,1821,60,4,4,0,3,5.0,0
+308,Anjali Doshi,64,Other,Bangalore,Karnataka,75797,Diploma,Business Owner,Free,8,None,61,2039.51,131749.82,51,Toys,Net Banking,Desktop,101,46,13,1,2,2,3.6,0
+309,Ila Singh,19,Female,Bhubaneswar,Odisha,59955,Bachelor's,Retired,Enterprise,2,None,58,2156.17,134335.4,13,Toys,Net Banking,Desktop,3034,29,22,5,0,5,3.1,0
+310,Omkar Nambiar,51,Male,Coimbatore,Tamil Nadu,75823,Master's,Retired,Free,8,Google,78,1392.69,118226.57,351,Clothing,Cash on Delivery,Tablet,2981,14,12,2,7,9,3.1,0
+311,Wasim Reddy,59,Other,Chandigarh,Chandigarh,28782,Diploma,Retired,Basic,12,Friend Referral,26,414.94,10254.18,277,Clothing,Wallet,App,1846,11,28,2,8,10,3.8,0
+312,Vikram Joshi,41,Female,Jodhpur,Rajasthan,83730,Diploma,Freelancer,Free,3,Google,15,1217.8,18441.84,273,Sports,Net Banking,Tablet,3750,2,12,1,4,0,3.2,0
+313,Leela Iyer,62,Male,Raipur,Chhattisgarh,39726,Bachelor's,Freelancer,Premium,6,None,80,134.91,10522.56,350,Furniture,Debit Card,App,3636,2,9,1,1,0,4.7,0
+314,Falguni Modi,59,Female,Guwahati,Assam,95851,Master's,Retired,Premium,9,Friend Referral,41,1256.48,54078.93,272,Furniture,Net Banking,App,1080,10,25,2,3,3,3.7,0
+315,Manish Sethi,21,Male,Nashik,Maharashtra,57274,PhD,Salaried,Basic,3,Google,79,2316.4,194623.81,147,Groceries,Debit Card,Desktop,957,40,18,1,7,4,3.7,0
+316,Chirag Patil,63,Male,Bhubaneswar,Odisha,61542,Master's,Salaried,Enterprise,7,Email Campaign,47,1165.2,62575.98,274,Sports,Credit Card,Mobile,1190,20,4,0,8,8,3.7,0
+317,Radha Bhatt,48,Female,Navi Mumbai,Maharashtra,148540,Diploma,Retired,Enterprise,0,None,18,2014.97,38756.21,227,Beauty,Wallet,Mobile,1142,17,3,2,0,1,4.2,0
+318,Eshan Parikh,40,Male,Kochi,Kerala,27213,Diploma,Retired,Enterprise,10,TV Ad,24,1491.9,32820.96,143,Home & Kitchen,Credit Card,Mobile,715,12,6,3,5,8,4.9,0
+319,Lata Kulkarni,43,Male,Chandigarh,Chandigarh,131909,PhD,Self-Employed,Basic,11,None,49,982.25,45020.8,180,Sports,Net Banking,Mobile,3639,26,25,3,4,2,4.6,0
+320,Farhan Chopra,44,Male,Bareilly,Uttar Pradesh,98372,High School,Salaried,Free,0,None,26,813.82,24259.47,269,Beauty,Credit Card,App,3354,8,13,1,8,7,4.4,0
+321,Yamini Sharma,30,Male,Aurangabad,Maharashtra,57940,Diploma,Business Owner,Basic,0,Social Media,5,2071.17,9740.69,300,Sports,Net Banking,App,20,2,9,5,5,7,1.2,1
+322,Lata Bhatt,44,Male,Raipur,Chhattisgarh,138855,Bachelor's,Student,Enterprise,9,Friend Referral,15,1930.62,28898.92,35,Automotive,Wallet,Tablet,3572,15,22,6,1,5,4.0,0
+323,Zeenat Mehta,34,Male,Bareilly,Uttar Pradesh,27669,Bachelor's,Self-Employed,Enterprise,10,Google,59,2205.53,115896.86,84,Electronics,UPI,Tablet,2916,18,9,4,10,14,3.2,0
+324,Aditya Sethi,58,Male,Navi Mumbai,Maharashtra,32387,Diploma,Salaried,Free,8,Friend Referral,69,860.71,56114.47,351,Sports,UPI,Tablet,4751,18,0,1,8,4,3.7,0
+325,Naveen Kapoor,39,Male,Chennai,Tamil Nadu,48557,Bachelor's,Freelancer,Enterprise,7,Google,28,2092.41,63774.35,287,Automotive,Wallet,Mobile,625,26,4,0,7,5,3.6,0
+326,Wasim Sharma,46,Other,Vijayawada,Andhra Pradesh,120085,Master's,Salaried,Basic,4,Social Media,38,149.6,6221.29,114,Groceries,Wallet,Desktop,1026,8,2,3,1,0,3.0,0
+327,Monika Walia,45,Male,Surat,Gujarat,34131,High School,Retired,Free,12,Google,65,1515.49,97593.17,130,Electronics,Credit Card,Tablet,790,26,18,1,2,2,3.1,0
+328,Manoj Luthra,35,Other,Nashik,Maharashtra,,Master's,Salaried,Free,8,None,64,1969.54,130322.03,259,Automotive,Credit Card,Mobile,1777,24,30,2,2,4,3.0,0
+329,Tara Nair,31,Other,Chandigarh,Chandigarh,82221,Master's,Retired,Enterprise,3,Social Media,75,528.0,41661.49,55,Groceries,UPI,App,4212,52,3,6,5,1,3.9,0
+330,Ramesh Sharma,49,Female,Chandigarh,Chandigarh,57784,Diploma,Retired,Enterprise,3,Email Campaign,5,279.04,1392.57,198,Sports,Net Banking,Tablet,4537,2,27,3,1,0,4.8,0
+331,Lalit Bhatia,41,Male,Mumbai,Maharashtra,108363,PhD,Retired,Enterprise,6,Google,13,1039.21,13601.58,347,Clothing,Credit Card,Desktop,4837,11,29,1,1,1,5.0,0
+332,Tanvi Pillai,56,Female,Kolkata,West Bengal,50522,PhD,Retired,Premium,7,Email Campaign,63,754.01,50545.09,298,Automotive,UPI,App,4941,62,16,2,2,3,3.2,0
+333,Ishaan Roy,49,Male,Gwalior,Madhya Pradesh,143522,Bachelor's,Student,Premium,2,TV Ad,12,1865.47,24603.92,256,Electronics,Debit Card,App,2480,9,3,6,1,7,4.6,0
+334,Bhavna Bhatt,60,Female,Raipur,Chhattisgarh,86164,Master's,Freelancer,Enterprise,7,Email Campaign,43,2038.95,88740.86,10,Electronics,Net Banking,Mobile,2576,28,14,0,0,0,4.1,0
+335,Babita Jain,63,Male,Raipur,Chhattisgarh,76450,Bachelor's,Self-Employed,Enterprise,8,TV Ad,49,1259.64,54489.4,346,Toys,Wallet,App,1280,3,12,2,7,9,4.9,0
+336,Ekta Bhatia,40,Female,Kochi,Kerala,28050,High School,Freelancer,Enterprise,1,Friend Referral,5,390.24,1873.0,299,Electronics,Wallet,Tablet,3507,2,13,2,0,2,3.5,0
+337,Girish Malhotra,37,Other,Hyderabad,Telangana,139326,High School,Self-Employed,Enterprise,4,None,14,896.98,10748.32,167,Electronics,Net Banking,App,167,7,18,0,5,3,4.1,0
+338,Rekha Bhosale,24,Female,Chennai,Tamil Nadu,110552,Bachelor's,Self-Employed,Premium,6,Email Campaign,63,1296.7,88184.27,174,Groceries,Cash on Delivery,Tablet,1652,9,26,6,8,3,3.6,0
+339,Vikram Jain,54,Female,Indore,Madhya Pradesh,101863,High School,Retired,Enterprise,3,Google,74,309.26,21765.04,35,Automotive,Cash on Delivery,App,2845,38,16,6,4,6,4.3,0
+340,Qasim Pillai,44,Female,Agra,Uttar Pradesh,101915,Diploma,Business Owner,Basic,10,Friend Referral,70,517.05,30966.47,361,Furniture,Debit Card,App,3828,68,25,4,6,9,4.5,0
+341,Meera Modi,30,Female,Madurai,Tamil Nadu,39365,Bachelor's,Salaried,Premium,10,Friend Referral,38,2122.78,78493.97,33,Home & Kitchen,Net Banking,Tablet,1315,38,7,3,3,0,3.3,0
+342,Sneha Mishra,37,Female,Raipur,Chhattisgarh,93377,PhD,Business Owner,Free,11,Google,4,568.82,2120.14,15,Sports,UPI,Desktop,3980,0,27,0,2,2,3.6,0
+343,Rohit Kapoor,41,Other,Bhubaneswar,Odisha,136093,High School,Business Owner,Enterprise,1,TV Ad,17,651.22,11306.46,257,Clothing,Cash on Delivery,Tablet,1950,3,24,6,5,5,4.7,0
+344,Vimal Menon,65,Other,Vadodara,Gujarat,142617,PhD,Salaried,Free,7,Friend Referral,18,338.49,5570.25,141,Toys,Net Banking,Tablet,4370,3,10,4,6,7,4.4,0
+345,Leela Rao,41,Female,Chandigarh,Chandigarh,68200,Master's,Student,Premium,10,None,77,164.24,13554.94,28,Home & Kitchen,UPI,App,2972,15,17,6,3,7,3.8,0
+346,Akash Tiwari,37,Male,Navi Mumbai,Maharashtra,50862,Master's,Salaried,Free,12,Email Campaign,20,2296.46,47739.08,330,Books,Credit Card,Tablet,4027,13,29,6,5,11,3.8,0
+347,Suresh Kumar,62,Female,Jabalpur,Madhya Pradesh,,High School,Self-Employed,Free,10,None,53,1537.12,89127.61,168,Toys,Wallet,Mobile,1505,28,25,5,2,0,3.8,0
+348,Gita Jain,38,Other,Hyderabad,Telangana,34526,Bachelor's,Salaried,Premium,7,None,66,1806.82,128823.78,333,Groceries,Cash on Delivery,App,3918,17,8,1,10,9,4.7,0
+349,Manish Pillai,23,Female,Rajkot,Gujarat,43840,PhD,Business Owner,Free,7,Friend Referral,73,623.26,51614.4,286,Automotive,Wallet,Desktop,1624,21,1,3,9,6,4.2,0
+350,Sunita Singh,41,Male,Hubli,Karnataka,35381,High School,Retired,Basic,3,Friend Referral,67,1133.08,85481.57,233,Toys,Credit Card,Desktop,2180,63,12,1,6,3,4.2,0
+351,Manish Chopra,61,Male,Guwahati,Assam,43641,PhD,Salaried,Enterprise,1,Email Campaign,3,782.27,2179.11,317,Toys,Debit Card,Tablet,84,1,27,2,3,5,1.4,1
+352,Zara Arora,45,Other,Aligarh,Uttar Pradesh,53584,High School,Student,Free,4,TV Ad,71,222.18,14983.81,121,Toys,UPI,Mobile,4133,48,9,3,10,5,3.3,0
+353,Wendy Verma,55,Male,Agra,Uttar Pradesh,42264,Diploma,Business Owner,Premium,1,Google,43,2204.51,84326.39,163,Furniture,Net Banking,Desktop,2566,8,15,6,4,5,4.9,0
+354,Manish Tiwari,57,Female,Vijayawada,Andhra Pradesh,61026,PhD,Salaried,Free,3,Google,40,1863.22,74333.72,78,Furniture,Wallet,App,1217,14,5,0,7,4,3.3,0
+355,Kiran Bose,25,Female,Bangalore,Karnataka,77870,Master's,Retired,Basic,4,Social Media,71,1254.18,88859.48,76,Clothing,UPI,Mobile,1479,65,26,2,9,10,4.2,0
+356,Abhi Shah,51,Other,Nagpur,Maharashtra,74580,High School,Salaried,Enterprise,5,Google,63,1718.12,120820.35,14,Sports,Wallet,Mobile,4836,41,4,0,1,1,4.7,0
+357,Komal Doshi,47,Other,Ranchi,Jharkhand,97883,High School,Self-Employed,Free,12,Friend Referral,5,1667.94,9467.8,167,Automotive,Debit Card,Desktop,2317,0,23,0,4,4,3.8,0
+358,Bela Tiwari,29,Male,Gurgaon,Haryana,133444,PhD,Student,Free,4,Email Campaign,2,2142.68,3852.03,207,Sports,Wallet,Desktop,4021,2,25,2,2,4,1.3,1
+359,Lata Nair,41,Other,Surat,Gujarat,84175,PhD,Business Owner,Enterprise,10,Google,60,729.72,45101.17,47,Books,UPI,Desktop,3489,2,16,2,7,3,4.3,0
+360,Shyam Rao,49,Other,Gwalior,Madhya Pradesh,104833,Diploma,Student,Premium,3,Email Campaign,37,1213.09,39217.91,245,Sports,Debit Card,Desktop,4285,18,18,0,8,1,4.8,0
+361,Queenie Nair,50,Female,Guwahati,Assam,32384,PhD,Retired,Free,11,Social Media,72,2047.04,140995.79,300,Clothing,Cash on Delivery,Mobile,3791,23,26,3,0,0,3.8,0
+362,Radha Jain,38,Other,Patna,Bihar,79637,PhD,Freelancer,Premium,10,Email Campaign,33,906.03,33649.33,96,Home & Kitchen,Debit Card,Mobile,871,1,0,3,1,0,3.3,0
+363,Monika Shetty,62,Female,Bhubaneswar,Odisha,146589,Diploma,Retired,Premium,1,Social Media,62,812.78,55126.21,316,Beauty,Wallet,App,1024,0,6,0,0,0,4.7,0
+364,Chirag Doshi,59,Male,Jalandhar,Punjab,51690,PhD,Retired,Free,1,Social Media,68,542.01,34655.43,238,Groceries,Net Banking,App,1360,56,30,3,7,0,4.7,0
+365,Abhi Mishra,30,Female,Hubli,Karnataka,128717,PhD,Student,Free,7,Email Campaign,42,99.06,4323.29,222,Books,Net Banking,Tablet,3274,32,18,5,9,14,4.4,0
+366,Naveen Desai,63,Male,Vijayawada,Andhra Pradesh,22492,PhD,Freelancer,Enterprise,9,Email Campaign,40,1418.88,52802.46,332,Books,Net Banking,Mobile,2840,27,0,1,4,5,3.4,0
+367,Uday Parikh,32,Other,Indore,Madhya Pradesh,97025,Master's,Freelancer,Enterprise,12,TV Ad,59,397.4,21993.34,365,Books,Net Banking,Tablet,1327,13,9,5,1,5,4.0,0
+368,Gaurav Pillai,28,Other,Raipur,Chhattisgarh,33225,PhD,Business Owner,Basic,2,Google,38,648.02,25044.59,10,Beauty,UPI,Tablet,4124,4,10,3,1,4,3.5,0
+369,Wendy Desai,49,Female,Meerut,Uttar Pradesh,122876,Master's,Student,Free,7,Google,71,727.33,46236.44,354,Furniture,Cash on Delivery,Mobile,3744,13,25,4,9,12,4.7,0
+370,Nisha Patil,20,Other,Chennai,Tamil Nadu,41895,High School,Salaried,Basic,10,Friend Referral,46,460.02,19841.26,227,Furniture,Net Banking,Mobile,2979,8,3,6,3,7,4.9,0
+371,Alok Sethi,18,Male,Varanasi,Uttar Pradesh,64737,Master's,Freelancer,Basic,12,Email Campaign,21,286.27,5781.61,213,Beauty,Wallet,Desktop,4338,7,4,6,6,6,4.8,0
+372,Jai Modi,61,Female,Delhi,Delhi,78009,Bachelor's,Student,Free,6,None,66,2363.62,136566.67,162,Books,Debit Card,App,303,19,28,4,0,4,4.9,0
+373,Disha Trivedi,61,Other,Mysuru,Karnataka,134497,Master's,Retired,Enterprise,7,TV Ad,40,2280.34,77747.8,144,Furniture,Cash on Delivery,Desktop,1680,39,25,4,10,7,4.4,0
+374,Jagdish Trivedi,30,Female,Hyderabad,Telangana,24845,Diploma,Self-Employed,Basic,1,TV Ad,49,1834.74,96376.63,65,Furniture,Cash on Delivery,Tablet,4191,19,16,2,10,2,3.0,0
+375,Uma Hegde,34,Male,Gurgaon,Haryana,59838,PhD,Freelancer,Free,12,Email Campaign,14,1851.41,28575.87,133,Furniture,UPI,Mobile,1021,4,18,5,0,3,3.7,0
+376,Girish Luthra,55,Other,Chandigarh,Chandigarh,137222,Diploma,Freelancer,Basic,1,TV Ad,29,927.82,25167.54,294,Groceries,Wallet,App,2685,18,6,6,5,7,3.2,0
+377,Shyam Bose,44,Male,Hyderabad,Telangana,28151,PhD,Salaried,Premium,9,None,60,599.78,31431.66,347,Furniture,Net Banking,App,4086,27,14,5,7,11,2.9,1
+378,Nikhil Rao,50,Male,Raipur,Chhattisgarh,,PhD,Salaried,Basic,8,Google,65,2169.12,124837.49,109,Toys,Net Banking,Mobile,3025,52,3,0,5,4,3.6,0
+379,Ramesh Rao,25,Female,Visakhapatnam,Andhra Pradesh,149894,Master's,Self-Employed,Premium,4,Social Media,37,1255.94,50529.43,73,Automotive,Net Banking,Mobile,1766,31,0,0,8,5,3.1,0
+380,Anjali Kapoor,48,Other,Visakhapatnam,Andhra Pradesh,,Diploma,Business Owner,Enterprise,10,Social Media,43,1970.87,84117.59,311,Groceries,Debit Card,App,3678,20,2,6,9,13,3.8,0
+381,Akash Nambiar,52,Male,Bhubaneswar,Odisha,136659,PhD,Retired,Free,10,Google,35,1643.12,63822.91,363,Electronics,Cash on Delivery,Tablet,4582,12,30,4,8,9,4.5,0
+382,Yogesh Modi,30,Female,Jabalpur,Madhya Pradesh,137553,High School,Student,Free,12,TV Ad,68,514.98,29965.17,106,Home & Kitchen,Wallet,App,4370,41,12,4,0,3,4.7,0
+383,Rahul Nambiar,45,Male,Guwahati,Assam,23153,Diploma,Self-Employed,Basic,2,Google,48,702.37,29816.23,51,Furniture,Debit Card,Tablet,2093,9,9,3,10,2,3.1,0
+384,Rekha Reddy,19,Other,Ahmedabad,Gujarat,59062,PhD,Student,Basic,3,TV Ad,40,424.75,18993.18,133,Books,Credit Card,Mobile,4890,15,15,4,8,6,4.9,0
+385,Krunal Patel,38,Female,Mysuru,Karnataka,73356,High School,Business Owner,Basic,12,None,3,1066.13,2942.91,10,Sports,Cash on Delivery,Mobile,4544,1,9,4,3,7,3.2,0
+386,Hemant Saxena,31,Male,Rajkot,Gujarat,90836,Bachelor's,Salaried,Enterprise,9,None,68,2385.32,184651.4,285,Toys,Credit Card,Mobile,2369,21,0,0,7,4,4.2,0
+387,Neha Menon,40,Other,Kanpur,Uttar Pradesh,96697,Diploma,Self-Employed,Free,2,Friend Referral,5,470.63,2377.22,36,Sports,Credit Card,App,4558,3,6,4,4,5,4.8,0
+388,Tanvi Dubey,34,Other,Jodhpur,Rajasthan,55784,Bachelor's,Retired,Free,9,Google,41,906.74,36727.99,307,Beauty,Credit Card,Desktop,3903,0,21,1,6,7,4.5,0
+389,Tarun Singh,59,Other,Pune,Maharashtra,90601,High School,Retired,Basic,12,Google,56,1706.84,91367.68,193,Automotive,UPI,App,69,29,11,1,7,0,3.4,0
+390,Rahul Walia,35,Other,Chandigarh,Chandigarh,66900,Bachelor's,Student,Free,4,None,78,1593.07,135756.49,114,Home & Kitchen,Net Banking,Tablet,4037,77,6,0,3,3,3.2,0
+391,Leela Bhosale,50,Female,Bhopal,Madhya Pradesh,92323,Bachelor's,Retired,Free,2,TV Ad,72,1706.66,126675.49,90,Clothing,Cash on Delivery,Desktop,2126,29,28,4,4,3,4.7,0
+392,Rahul Khanna,61,Other,Moradabad,Uttar Pradesh,53150,Diploma,Business Owner,Enterprise,4,None,0,2349.69,0.0,333,Electronics,UPI,App,997,0,16,3,0,2,2.0,1
+393,Anjali Chopra,32,Male,Ranchi,Jharkhand,140375,PhD,Freelancer,Basic,11,Google,57,845.31,46619.51,172,Clothing,Cash on Delivery,Mobile,3471,15,6,1,5,2,3.1,0
+394,Gita Nair,19,Female,Ludhiana,Punjab,125913,High School,Freelancer,Premium,0,TV Ad,80,2342.85,206574.2,127,Clothing,Net Banking,Desktop,2732,30,30,0,9,9,3.9,0
+395,Suresh Dubey,46,Other,Kolkata,West Bengal,31211,High School,Student,Free,4,Google,48,838.14,44427.09,34,Groceries,Credit Card,App,3537,6,21,0,8,0,3.6,0
+396,Yash Trivedi,24,Other,Navi Mumbai,Maharashtra,73884,Bachelor's,Freelancer,Premium,10,Email Campaign,79,105.67,8057.22,220,Automotive,Cash on Delivery,Mobile,212,66,10,4,3,1,3.2,0
+397,Cyrus Arora,22,Other,Surat,Gujarat,138537,Diploma,Salaried,Basic,12,Google,65,700.21,44435.07,318,Toys,Debit Card,Desktop,361,16,9,4,6,8,4.9,0
+398,Yamini Pandey,37,Other,Dhanbad,Jharkhand,121645,Bachelor's,Salaried,Free,3,TV Ad,60,826.99,47280.84,189,Electronics,Cash on Delivery,Desktop,4154,54,1,3,5,3,5.0,0
+399,Hemant Pillai,22,Female,Surat,Gujarat,107537,PhD,Retired,Enterprise,5,Google,59,1531.42,85776.79,297,Automotive,UPI,Tablet,1329,29,28,6,0,3,3.4,0
+400,Aarav Dubey,32,Other,Indore,Madhya Pradesh,81149,Diploma,Salaried,Basic,0,Google,30,1243.41,40305.3,170,Books,Debit Card,App,2972,2,11,0,8,1,3.3,0
+401,Harsh Pillai,58,Other,Navi Mumbai,Maharashtra,67174,High School,Student,Basic,3,Social Media,25,558.74,12603.0,135,Groceries,UPI,Desktop,176,8,29,0,0,0,3.8,0
+402,Arjun Nambiar,31,Female,Madurai,Tamil Nadu,51476,Master's,Self-Employed,Free,2,Social Media,21,2357.61,56596.18,320,Books,Wallet,Mobile,1071,6,17,3,5,5,4.2,0
+403,Hemant Mishra,20,Other,Bareilly,Uttar Pradesh,44785,Diploma,Self-Employed,Basic,11,Email Campaign,19,872.99,14363.81,144,Groceries,Cash on Delivery,App,666,19,2,1,8,6,4.5,0
+404,Ila Walia,50,Female,Raipur,Chhattisgarh,88012,PhD,Salaried,Enterprise,10,None,41,1804.22,74538.37,248,Toys,Net Banking,Tablet,4783,2,6,1,3,3,4.7,0
+405,Akash Gupta,37,Female,Aurangabad,Maharashtra,94890,Bachelor's,Self-Employed,Basic,9,Email Campaign,32,1412.34,40236.96,44,Sports,Net Banking,Tablet,337,32,19,2,6,7,3.9,0
+406,Chetan Kulkarni,49,Female,Ranchi,Jharkhand,70118,High School,Salaried,Premium,3,Google,56,645.77,37740.07,184,Clothing,UPI,Mobile,806,4,11,0,8,3,3.7,0
+407,Mukesh Nambiar,34,Female,Thane,Maharashtra,126897,Master's,Salaried,Premium,5,Email Campaign,77,2495.15,220853.61,279,Sports,Credit Card,Tablet,3308,74,24,5,0,3,4.3,0
+408,Zubin Rao,43,Male,Indore,Madhya Pradesh,114809,Bachelor's,Business Owner,Premium,3,None,29,1328.3,41825.48,240,Toys,UPI,Mobile,3512,13,6,3,7,8,3.1,0
+409,Ritu Bhosale,26,Female,Thane,Maharashtra,21268,PhD,Retired,Premium,9,TV Ad,45,902.37,39621.7,352,Books,Wallet,Tablet,190,2,29,1,2,2,4.1,0
+410,Dolly Fernandes,54,Female,Aurangabad,Maharashtra,46765,PhD,Student,Free,2,None,68,1015.17,68509.22,169,Automotive,Net Banking,Tablet,854,22,1,6,9,15,3.1,0
+411,Bhavna Joshi,42,Female,Kanpur,Uttar Pradesh,50544,Master's,Retired,Enterprise,6,Google,67,249.35,14488.43,266,Electronics,Debit Card,Tablet,1286,16,17,3,7,1,3.8,0
+412,Chirag Sharma,31,Female,Ludhiana,Punjab,127203,PhD,Salaried,Premium,3,Social Media,77,1471.72,106873.73,104,Furniture,Wallet,App,60,57,2,6,6,9,4.6,0
+413,Shruti Nambiar,54,Female,Madurai,Tamil Nadu,80646,Diploma,Student,Enterprise,9,Email Campaign,11,776.75,9520.84,234,Beauty,Wallet,Tablet,1434,3,5,4,6,7,3.8,0
+414,Komal Reddy,62,Other,Chennai,Tamil Nadu,71583,High School,Salaried,Enterprise,6,Google,20,742.54,15421.44,150,Clothing,Wallet,Desktop,4528,11,2,6,1,5,3.8,0
+415,Lakshmi Tiwari,31,Other,Bangalore,Karnataka,80577,High School,Student,Premium,1,Friend Referral,59,1002.4,63505.49,100,Books,Credit Card,Mobile,1118,42,23,3,7,7,3.1,0
+416,Vivek Kaur,33,Other,Jodhpur,Rajasthan,38383,PhD,Self-Employed,Enterprise,2,None,20,492.83,8431.53,52,Groceries,UPI,Mobile,635,0,21,2,2,3,3.7,0
+417,Divya Arora,20,Other,Dhanbad,Jharkhand,48333,PhD,Retired,Enterprise,0,Google,6,2104.33,13805.92,329,Clothing,Net Banking,Tablet,4900,0,24,3,6,3,4.9,0
+418,Xena Mishra,30,Male,Delhi,Delhi,75270,High School,Student,Basic,0,TV Ad,43,2065.67,93619.22,33,Home & Kitchen,Credit Card,Desktop,3405,6,26,2,5,3,4.2,0
+419,Uma Trivedi,45,Male,Indore,Madhya Pradesh,48020,High School,Self-Employed,Enterprise,3,None,41,500.16,19904.53,162,Electronics,Net Banking,Desktop,540,17,20,4,5,0,3.1,0
+420,Divya Kapoor,37,Other,Raipur,Chhattisgarh,148857,High School,Retired,Premium,10,None,68,1994.85,152832.18,292,Groceries,UPI,Mobile,3183,17,10,1,10,11,3.6,0
+421,Lata Doshi,22,Female,Delhi,Delhi,99761,Diploma,Business Owner,Basic,0,Friend Referral,48,1316.68,67785.48,258,Automotive,Wallet,Mobile,1016,15,23,3,3,4,3.2,0
+422,Ritu Kulkarni,49,Female,Surat,Gujarat,39879,PhD,Salaried,Premium,10,TV Ad,4,656.11,2801.83,228,Beauty,Debit Card,Tablet,324,3,20,6,2,0,3.5,0
+423,Utpal Nambiar,39,Male,Kanpur,Uttar Pradesh,90688,High School,Retired,Basic,7,Google,31,2019.51,66291.19,114,Automotive,Net Banking,Tablet,49,31,2,1,0,0,4.9,0
+424,Sanjay Singh,29,Other,Mysuru,Karnataka,128949,Bachelor's,Salaried,Basic,6,TV Ad,64,269.16,18388.95,160,Groceries,Wallet,Desktop,1445,31,9,2,9,7,4.9,0
+425,Bhavna Agarwal,48,Male,Rajkot,Gujarat,72198,PhD,Salaried,Enterprise,6,Friend Referral,60,1148.13,68997.18,222,Groceries,Net Banking,Mobile,681,38,17,1,8,2,3.5,0
+426,Kiran Jain,47,Female,Aurangabad,Maharashtra,93681,Diploma,Business Owner,Free,8,Email Campaign,9,886.43,8492.12,101,Groceries,Debit Card,Mobile,3065,6,29,3,6,5,3.8,0
+427,Payal Malhotra,55,Male,Guwahati,Assam,135998,High School,Student,Enterprise,10,None,49,2335.75,102858.79,224,Sports,Wallet,Tablet,3016,3,20,3,6,3,3.5,0
+428,Karan Kulkarni,58,Other,Noida,Uttar Pradesh,23703,Bachelor's,Self-Employed,Free,1,None,77,1182.24,95977.36,131,Home & Kitchen,Cash on Delivery,Desktop,756,49,12,5,9,14,3.2,0
+429,Aditya Bose,28,Female,Agra,Uttar Pradesh,110680,Master's,Freelancer,Free,10,Friend Referral,68,1673.54,109799.1,158,Books,Wallet,Mobile,4690,18,8,5,3,6,4.4,0
+430,Aarav Kumar,49,Male,Chennai,Tamil Nadu,29154,PhD,Freelancer,Basic,3,Social Media,53,1663.94,94354.34,88,Groceries,UPI,Desktop,3985,32,30,0,7,3,3.4,0
+431,Meera Luthra,29,Male,Agra,Uttar Pradesh,148836,PhD,Business Owner,Free,6,Friend Referral,80,2289.39,161678.3,326,Groceries,Credit Card,Tablet,1021,8,10,0,9,3,4.0,0
+432,Mukesh Walia,24,Male,Ahmedabad,Gujarat,54875,High School,Retired,Premium,7,Friend Referral,74,1989.88,127012.6,109,Furniture,Credit Card,App,3876,54,10,2,10,5,5.0,0
+433,Girish Kulkarni,60,Female,Aurangabad,Maharashtra,100059,High School,Self-Employed,Free,9,TV Ad,42,2031.17,72591.71,358,Books,Wallet,Desktop,1006,17,30,5,3,5,3.9,0
+434,Neha Kaur,48,Other,Guwahati,Assam,106537,Bachelor's,Student,Basic,9,Email Campaign,41,120.25,4723.48,24,Beauty,Wallet,App,3969,39,25,0,5,3,4.9,0
+435,Lalit Kaur,62,Male,Patna,Bihar,70444,Master's,Freelancer,Enterprise,12,Friend Referral,24,1802.9,48070.69,293,Furniture,Credit Card,Desktop,713,21,17,6,7,2,4.8,0
+436,Arjun Doshi,60,Other,Vadodara,Gujarat,51897,Bachelor's,Salaried,Premium,3,None,11,335.24,4233.44,15,Groceries,UPI,App,2110,7,30,5,1,5,3.3,0
+437,Tarun Dubey,64,Female,Hyderabad,Telangana,124273,Master's,Salaried,Enterprise,12,Social Media,73,1934.54,145486.85,330,Beauty,Net Banking,App,1911,33,3,2,1,0,3.2,0
+438,Vimal Hegde,30,Other,Kolkata,West Bengal,95083,Master's,Salaried,Enterprise,6,Friend Referral,40,2388.85,97758.91,1,Sports,Credit Card,Desktop,2618,8,16,5,9,9,3.4,0
+439,Akash Shah,52,Female,Kochi,Kerala,38966,Master's,Salaried,Premium,4,None,63,1725.55,97211.17,146,Groceries,Wallet,Mobile,4115,15,8,6,9,15,4.3,0
+440,Divya Roy,36,Other,Aurangabad,Maharashtra,27708,Master's,Salaried,Enterprise,4,Google,26,2132.33,62666.14,116,Electronics,Debit Card,App,1304,17,12,2,6,7,5.0,0
+441,Yamini Trivedi,43,Male,Vijayawada,Andhra Pradesh,115257,Master's,Self-Employed,Premium,7,TV Ad,24,1776.68,43254.47,50,Groceries,UPI,Mobile,1340,4,14,5,7,4,4.8,0
+442,Chirag Gupta,65,Male,Thane,Maharashtra,105359,High School,Self-Employed,Free,1,Email Campaign,73,326.71,25892.56,76,Books,Net Banking,Desktop,2912,22,30,0,1,1,4.2,0
+443,Sunita Dubey,64,Female,Vadodara,Gujarat,24455,High School,Salaried,Enterprise,10,Friend Referral,50,1262.47,66683.36,89,Books,Wallet,Mobile,3130,40,20,3,5,0,3.2,0
+444,Amit Iyer,49,Other,Bhubaneswar,Odisha,139076,Diploma,Salaried,Basic,6,None,2,1500.18,3439.03,246,Sports,Wallet,Mobile,3966,2,13,2,2,1,1.2,1
+445,Rohit Arora,52,Male,Amritsar,Punjab,126544,High School,Business Owner,Basic,10,Social Media,71,2058.26,158564.25,272,Toys,Credit Card,Mobile,961,23,0,4,7,5,3.2,0
+446,Sanjay Bhosale,31,Other,Bhopal,Madhya Pradesh,31510,Diploma,Self-Employed,Enterprise,10,Social Media,4,284.76,1010.8,153,Beauty,Cash on Delivery,Desktop,0,2,1,4,2,5,2.1,1
+447,Ritu Bhosale,49,Other,Kochi,Kerala,88506,Master's,Freelancer,Basic,2,Social Media,68,1315.63,94506.67,340,Electronics,Debit Card,Mobile,2455,17,19,4,3,5,3.6,0
+448,Utpal Shaikh,45,Male,Mysuru,Karnataka,53419,Master's,Business Owner,Basic,1,None,20,1048.14,18341.95,131,Books,Wallet,Desktop,2206,20,6,5,5,9,4.3,0
+449,Queenie Fernandes,28,Female,Lucknow,Uttar Pradesh,61465,PhD,Business Owner,Enterprise,1,None,3,2412.92,6690.42,139,Clothing,Cash on Delivery,Mobile,2698,0,11,2,2,1,4.7,0
+450,Eshan Agarwal,18,Male,Aurangabad,Maharashtra,148383,Bachelor's,Business Owner,Free,8,None,13,1974.22,22766.04,270,Sports,Cash on Delivery,App,2858,9,27,2,8,4,4.2,0
+451,Vikram Kumar,38,Female,Nagpur,Maharashtra,65242,Diploma,Freelancer,Basic,10,Social Media,76,2214.49,163386.07,304,Groceries,UPI,Mobile,1035,48,18,5,4,0,4.8,0
+452,Hemant Kulkarni,63,Male,Noida,Uttar Pradesh,99783,PhD,Retired,Enterprise,8,Friend Referral,58,523.11,34766.25,240,Furniture,UPI,Tablet,1874,40,27,0,4,3,4.5,0
+453,Kavya Dubey,23,Male,Patna,Bihar,51462,High School,Salaried,Basic,7,TV Ad,73,218.94,17149.72,284,Toys,Credit Card,App,4078,68,22,0,6,0,4.2,0
+454,Waqar Shah,63,Female,Faridabad,Haryana,90035,Master's,Salaried,Basic,1,Social Media,67,1735.47,100312.52,230,Groceries,Wallet,Desktop,3006,65,11,0,6,3,3.8,0
+455,Xena Iyer,39,Other,Vadodara,Gujarat,129016,Diploma,Student,Basic,4,Google,37,804.01,27905.86,110,Electronics,Wallet,App,4223,29,28,4,7,0,3.7,0
+456,Ekta Shetty,39,Female,Nashik,Maharashtra,34046,High School,Self-Employed,Basic,6,Email Campaign,23,1053.0,20650.55,221,Toys,Debit Card,Mobile,1014,0,4,6,10,8,1.5,1
+457,Akash Kulkarni,37,Female,Ludhiana,Punjab,,Bachelor's,Freelancer,Enterprise,0,None,34,343.04,11448.42,225,Groceries,Debit Card,Tablet,2942,12,3,1,4,0,3.3,0
+458,Disha Luthra,39,Male,Bhopal,Madhya Pradesh,107320,Bachelor's,Business Owner,Enterprise,2,Google,34,367.48,12453.34,254,Groceries,UPI,App,898,1,4,1,5,4,3.0,0
+459,Neha Mishra,21,Other,Meerut,Uttar Pradesh,76317,Diploma,Retired,Basic,11,Social Media,1,1131.08,1059.64,249,Clothing,Net Banking,Desktop,4188,0,8,6,0,6,1.5,1
+460,Prem Mishra,60,Female,Surat,Gujarat,82114,High School,Retired,Basic,6,Friend Referral,64,1558.86,90448.87,303,Groceries,Debit Card,Mobile,314,24,29,1,6,0,4.2,0
+461,Kavya Patel,42,Female,Vijayawada,Andhra Pradesh,60166,Bachelor's,Salaried,Premium,5,Friend Referral,43,1111.1,41490.04,219,Electronics,UPI,Mobile,2298,26,7,2,0,0,3.1,0
+462,Vikram Kaur,65,Female,Kanpur,Uttar Pradesh,57397,PhD,Self-Employed,Free,1,None,77,323.84,22578.06,252,Beauty,UPI,Tablet,111,70,24,6,2,5,3.7,0
+463,Wasim Luthra,55,Other,Aligarh,Uttar Pradesh,68705,Bachelor's,Retired,Free,9,Social Media,35,588.28,19873.58,55,Groceries,Wallet,Mobile,1560,28,29,0,1,1,3.6,0
+464,Lalit Walia,30,Other,Patna,Bihar,40142,High School,Salaried,Free,6,Email Campaign,24,1092.07,27873.5,287,Beauty,UPI,App,554,13,16,4,0,1,4.2,0
+465,Prem Sharma,36,Male,Hubli,Karnataka,27968,Bachelor's,Retired,Enterprise,8,Email Campaign,50,1277.96,64520.43,263,Clothing,Debit Card,App,3196,38,8,1,2,0,3.3,0
+466,Divya Hegde,62,Male,Jabalpur,Madhya Pradesh,79695,Diploma,Retired,Basic,3,TV Ad,67,706.38,52331.99,152,Sports,Cash on Delivery,Mobile,373,30,9,0,10,2,4.9,0
+467,Leela Sharma,35,Male,Jalandhar,Punjab,148453,Bachelor's,Salaried,Free,11,Friend Referral,68,361.17,25654.76,324,Automotive,UPI,Tablet,4499,17,13,4,4,5,5.0,0
+468,Gita Shah,40,Male,Patna,Bihar,146514,Master's,Salaried,Premium,10,TV Ad,32,2431.28,78673.62,299,Clothing,Wallet,App,4950,13,26,3,3,2,3.5,0
+469,Abhi Dubey,43,Male,Jodhpur,Rajasthan,50372,PhD,Self-Employed,Basic,9,None,18,2263.25,35772.78,93,Toys,Debit Card,Desktop,4018,5,20,2,0,1,3.3,0
+470,Gaurav Trivedi,61,Other,Surat,Gujarat,29103,Bachelor's,Student,Free,9,Email Campaign,54,673.51,40833.51,207,Clothing,Wallet,Desktop,816,24,0,0,0,0,3.3,0
+471,Alok Singh,35,Male,Gwalior,Madhya Pradesh,98595,High School,Student,Enterprise,12,Email Campaign,13,1392.54,19831.43,363,Clothing,Debit Card,Desktop,4610,13,5,2,5,7,3.3,0
+472,Meera Rawat,62,Female,Gwalior,Madhya Pradesh,91252,High School,Student,Basic,0,Email Campaign,5,328.81,1543.8,262,Books,Debit Card,Mobile,1856,3,4,2,5,4,3.5,0
+473,Neha Menon,61,Other,Kolkata,West Bengal,84463,Bachelor's,Student,Free,5,Google,28,326.2,10382.66,183,Clothing,Cash on Delivery,Tablet,694,19,4,1,6,5,4.2,0
+474,Mukesh Bose,27,Other,Noida,Uttar Pradesh,59526,Diploma,Self-Employed,Free,2,Friend Referral,44,2198.47,90089.85,256,Beauty,UPI,Mobile,1200,9,12,3,7,1,3.2,0
+475,Farhan Chopra,35,Male,Hyderabad,Telangana,62343,Bachelor's,Salaried,Basic,12,Email Campaign,49,933.31,45652.7,247,Books,Cash on Delivery,Tablet,2014,26,17,3,8,8,4.0,0
+476,Tarun Desai,42,Male,Bareilly,Uttar Pradesh,113706,PhD,Freelancer,Free,3,Friend Referral,73,1959.35,156390.02,113,Clothing,Debit Card,Tablet,140,71,15,1,1,0,4.8,0
+477,Wasim Sethi,26,Female,Madurai,Tamil Nadu,38892,Diploma,Business Owner,Enterprise,11,None,31,589.98,16778.24,71,Clothing,Wallet,Desktop,215,27,11,0,1,0,4.0,0
+478,Cyrus Kumar,19,Male,Rajkot,Gujarat,38517,High School,Salaried,Basic,11,None,9,110.2,1090.31,214,Groceries,Debit Card,App,4320,4,15,3,5,7,4.6,0
+479,Omkar Shah,36,Male,Lucknow,Uttar Pradesh,27864,High School,Freelancer,Premium,11,Email Campaign,22,1297.97,24365.14,217,Toys,Cash on Delivery,Tablet,1862,5,8,0,8,6,5.0,0
+480,Sanjay Luthra,31,Female,Moradabad,Uttar Pradesh,27339,Bachelor's,Business Owner,Enterprise,5,Email Campaign,23,2070.46,54420.62,310,Clothing,Wallet,App,3318,5,1,6,5,10,1.8,1
+481,Krunal Nair,24,Male,Rajkot,Gujarat,99061,Master's,Student,Premium,3,Social Media,30,762.94,23173.62,34,Home & Kitchen,Cash on Delivery,Mobile,4519,20,29,0,3,2,3.2,0
+482,Yogesh Bhosale,20,Other,Varanasi,Uttar Pradesh,25987,High School,Self-Employed,Premium,12,None,11,2363.29,22162.89,183,Sports,Net Banking,Desktop,3200,5,4,5,10,3,1.7,1
+483,Vimal Saxena,24,Other,Gurgaon,Haryana,39685,High School,Freelancer,Enterprise,1,None,48,1234.23,65797.91,20,Sports,Debit Card,Desktop,764,14,28,1,10,10,3.3,0
+484,Shyam Kumar,50,Other,Patna,Bihar,99788,Diploma,Self-Employed,Enterprise,3,TV Ad,57,1980.55,107439.4,185,Automotive,Net Banking,Mobile,1710,38,2,1,9,10,5.0,0
+485,Suresh Shah,27,Female,Mysuru,Karnataka,133709,High School,Business Owner,Premium,5,Google,12,1180.64,12763.88,152,Groceries,Credit Card,Tablet,730,2,22,6,7,4,5.0,0
+486,Ishaan Walia,46,Other,Jaipur,Rajasthan,143185,High School,Freelancer,Enterprise,5,TV Ad,62,175.81,12074.18,206,Books,Cash on Delivery,Desktop,4198,60,10,2,1,3,4.0,0
+487,Jyoti Bhatia,20,Other,Jalandhar,Punjab,27478,Bachelor's,Retired,Free,3,Email Campaign,71,99.22,7790.77,149,Books,Debit Card,App,3180,11,11,3,7,10,4.1,0
+488,Kiran Nair,23,Male,Patna,Bihar,34201,PhD,Business Owner,Enterprise,1,Email Campaign,25,1051.68,22856.73,176,Automotive,Net Banking,Desktop,2280,1,17,1,7,2,4.3,0
+489,Qasim Bhosale,20,Other,Gurgaon,Haryana,69844,High School,Self-Employed,Premium,4,Google,55,2448.12,123070.53,109,Electronics,Wallet,App,1442,9,2,2,6,1,3.6,0
+490,Shyam Parikh,44,Other,Kanpur,Uttar Pradesh,107771,Master's,Salaried,Premium,6,Email Campaign,6,303.71,2041.83,176,Sports,Debit Card,Desktop,3945,4,22,6,1,6,3.7,0
+491,Omkar Bhosale,42,Male,Mysuru,Karnataka,122638,Diploma,Salaried,Free,2,Social Media,9,1828.99,16848.51,75,Beauty,Wallet,Tablet,3757,7,27,2,1,3,3.5,0
+492,Tara Shah,46,Male,Gwalior,Madhya Pradesh,78894,Diploma,Student,Basic,5,Social Media,4,609.07,2786.4,216,Furniture,Debit Card,App,1718,4,30,0,2,1,3.0,0
+493,Payal Saxena,25,Other,Raipur,Chhattisgarh,105054,PhD,Business Owner,Basic,7,Friend Referral,52,931.18,53188.72,219,Furniture,UPI,Mobile,3509,11,17,4,2,4,3.9,0
+494,Manish Kaur,62,Other,Ludhiana,Punjab,103113,Master's,Retired,Free,9,Google,79,2349.72,208230.83,51,Clothing,Credit Card,Mobile,3369,63,23,6,9,3,4.3,0
+495,Prakash Hegde,20,Other,Coimbatore,Tamil Nadu,131634,PhD,Salaried,Premium,12,Email Campaign,28,1960.05,55730.77,59,Home & Kitchen,Net Banking,Mobile,3800,26,20,5,6,0,4.9,0
+496,Eshan Saxena,36,Female,Bhubaneswar,Odisha,54668,Master's,Business Owner,Premium,8,Friend Referral,30,90.06,3033.36,17,Electronics,Credit Card,Desktop,4914,10,5,4,6,3,4.1,0
+497,Akash Pillai,57,Other,Amritsar,Punjab,128599,High School,Freelancer,Enterprise,3,None,54,391.87,22026.08,89,Books,UPI,Desktop,815,51,4,4,1,5,4.2,0
+498,Akash Walia,58,Female,Mysuru,Karnataka,40847,Master's,Salaried,Free,9,Google,11,305.7,3299.57,322,Automotive,Debit Card,Mobile,3132,11,23,1,7,5,3.4,0
+499,Jagdish Desai,37,Male,Dhanbad,Jharkhand,130160,Bachelor's,Retired,Free,1,TV Ad,48,1944.35,97787.8,141,Clothing,Debit Card,Mobile,3761,7,3,1,4,2,4.8,0
+500,Kavya Joshi,49,Female,Kanpur,Uttar Pradesh,71222,High School,Business Owner,Enterprise,5,Social Media,2,1081.26,2153.77,321,Clothing,Debit Card,App,3693,0,9,0,0,0,1.2,1
