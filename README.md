@@ -177,7 +177,7 @@ df["churn"] = df["churn"].astype(int)
 - **Income** follows a bimodal distribution (two customer segments)
 - **Purchases** box plot shows a wide spread — high-value outliers present
 
-![Univariate Analysis](./UnivariateAnalysis.png)
+![Univariate Analysis](./image/UnivariateAnalysis.png)
 
 ---
 
@@ -186,12 +186,12 @@ df["churn"] = df["churn"].astype(int)
 #### Gender vs Purchases — Violin Plot
 > Male and Female customers show similar purchase distributions, with slight variation in spread
 
-![Gender vs Purchases](./Bivariate_gender_purchases.png)
+![Gender vs Purchases](./image/Bivariate_gender_purchases.png)
 
 #### Income vs Churn — Scatter Plot
 > Clear **negative trend**: lower income customers are significantly more likely to churn
 
-![Income vs Churn](./Bivariate_income_churn.png)
+![Income vs Churn](./image/Bivariate_income_churn.png)
 
 ---
 
@@ -204,17 +204,17 @@ df["churn"] = df["churn"].astype(int)
 > - `satisfaction_score` ↔ `churn`: **r = -0.65** 🔵
 > - `support_tickets` ↔ `satisfaction_score`: **r = 0.51**
 
-![Correlation Heatmap](./CorrelationHeatmap.png)
+![Correlation Heatmap](./image/CorrelationHeatmap.png)
 
 #### Multi-variable Bubble Chart
 > Income vs Total Spent, bubble size and color = Purchases — high-income + high-purchase customers dominate spending
 
-![Multivariable](./Multivariable.png)
+![Multivariable](./image/Multivariable.png)
 
 #### Pair Plot by Churn
 > Churned customers (orange) cluster at **low income, low purchases, low total_spent** — a clear separable pattern
 
-![Pair Plot](./PairPlot.png)
+![Pair Plot](./image/PairPlot.png)
 
 ---
 
